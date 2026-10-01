@@ -1,0 +1,2001 @@
+id_cliente,tipo_cliente,producto_principal,antiguedad_meses,porc_pedidos_escaner,pedidos_mes,valor_promedio_pedido,meses_ultimo_pedido,porc_repeticiones,dias_promedio_pago
+CL0001,Consultorio,Corona,40,27,6.3,353000,0.1,5.2,28
+CL0002,Consultorio,Corona,36,16,9.5,257000,0.2,4.2,34
+CL0003,Consultorio,Carilla,9,24,8.1,332000,0.3,5.1,21
+CL0004,Consultorio,Carilla,10,50,3.4,263000,6.2,3.5,73
+CL0005,Consultorio,Carilla,11,62,4.8,326000,0.8,1.8,110
+CL0006,Odontologo independiente,Corona,46,56,1.7,290000,0.2,2.8,10
+CL0007,Odontologo independiente,Corona,31,16,2.8,349000,14.8,12.2,24
+CL0008,Consultorio,Corona,120,48,8.2,203000,0.3,3.8,40
+CL0009,Odontologo independiente,Corona,66,9,1.4,211000,0.0,3.6,40
+CL0010,Consultorio,Protesis removible,81,84,4.1,302000,0.0,3.6,54
+CL0011,Odontologo independiente,Corona sobre implante,73,44,2.4,429000,0.2,3.6,26
+CL0012,Odontologo independiente,Corona sobre implante,174,13,1.9,712000,1.6,8.4,64
+CL0013,Consultorio,Protesis removible,55,62,4.1,477000,0.0,3.7,42
+CL0014,Odontologo independiente,Protesis removible,77,42,1.8,387000,0.9,2.5,27
+CL0015,Consultorio,Corona,147,53,7.7,293000,0.2,1.3,39
+CL0016,Odontologo independiente,Corona,89,20,1.8,225000,7.6,15.2,41
+CL0017,Consultorio,Carilla,26,5,5.5,345000,0.0,3.9,19
+CL0018,Consultorio,Carilla,129,61,4.1,320000,0.7,4.4,47
+CL0019,Consultorio,Corona,178,34,7.7,295000,0.6,3.9,32
+CL0020,Consultorio,Protesis removible,66,48,4.6,440000,0.3,3.0,40
+CL0021,Consultorio,Protesis removible,93,21,6.6,399000,0.0,3.6,52
+CL0022,Consultorio,Corona,103,25,6.3,217000,0.2,3.5,51
+CL0023,Odontologo independiente,Corona,134,21,1.8,203000,0.3,13.6,26
+CL0024,Clinica grande,Corona,107,35,14.8,280000,0.0,3.5,39
+CL0025,Consultorio,Corona,113,37,5.7,195000,0.4,4.7,31
+CL0026,Consultorio,Corona,43,24,5.1,249000,6.1,2.6,27
+CL0027,Consultorio,Carilla,65,29,9.2,416000,11.0,3.5,36
+CL0028,Consultorio,Corona,149,46,4.0,358000,0.4,1.8,37
+CL0029,Consultorio,Protesis removible,163,61,8.2,455000,0.2,1.4,40
+CL0030,Consultorio,Corona,121,38,10.1,255000,0.0,12.4,52
+CL0031,Consultorio,Corona,62,59,7.9,216000,0.3,5.4,25
+CL0032,Odontologo independiente,Corona,133,45,3.0,308000,0.4,4.2,37
+CL0033,Odontologo independiente,Corona,34,20,1.9,224000,0.4,4.1,28
+CL0034,Consultorio,Corona,160,50,7.2,289000,0.0,4.7,26
+CL0035,Consultorio,Carilla,21,58,7.2,320000,0.1,3.4,44
+CL0036,Odontologo independiente,Protesis removible,55,21,1.0,468000,1.1,5.0,33
+CL0037,Consultorio,Protesis removible,149,31,5.1,342000,0.1,4.2,39
+CL0038,Consultorio,Protesis removible,109,46,3.4,389000,8.7,5.4,41
+CL0039,Odontologo independiente,Protesis removible,38,7,0.9,350000,5.7,2.9,41
+CL0040,Consultorio,Corona sobre implante,175,14,5.9,994000,0.0,3.9,31
+CL0041,Odontologo independiente,Protesis removible,149,48,2.6,456000,0.1,2.9,30
+CL0042,Consultorio,Corona,76,28,4.4,311000,0.1,4.0,34
+CL0043,Consultorio,Protesis removible,179,60,7.5,463000,14.9,1.5,43
+CL0044,Odontologo independiente,Protesis removible,65,31,2.8,423000,0.1,8.9,39
+CL0045,Consultorio,Corona,149,41,6.2,354000,0.0,4.3,87
+CL0046,Consultorio,Corona,79,9,4.8,325000,0.1,5.6,25
+CL0047,Consultorio,Corona,158,60,8.1,284000,0.1,1.7,31
+CL0048,Consultorio,Protesis removible,27,28,13.2,544000,0.1,3.5,24
+CL0049,Odontologo independiente,Corona,81,28,0.9,219000,0.1,9.2,42
+CL0050,Consultorio,Corona,159,49,8.3,300000,0.7,2.1,43
+CL0051,Consultorio,Corona,67,28,3.6,294000,0.4,3.4,28
+CL0052,Consultorio,Corona,122,27,8.7,293000,0.1,3.9,33
+CL0053,Consultorio,Carilla,75,38,9.4,305000,0.1,2.8,29
+CL0054,Consultorio,Corona,166,83,5.0,346000,0.1,2.0,26
+CL0055,Consultorio,Protesis removible,60,10,4.9,351000,16.7,5.3,30
+CL0056,Odontologo independiente,Corona sobre implante,138,26,2.2,803000,0.5,3.7,81
+CL0057,Consultorio,Corona,14,58,6.3,272000,0.3,2.8,93
+CL0058,Consultorio,Corona,86,54,5.5,319000,0.0,1.2,41
+CL0059,Clinica grande,Corona,102,84,36.7,273000,0.0,0.8,36
+CL0060,Odontologo independiente,Protesis removible,9,43,1.1,401000,0.5,4.2,22
+CL0061,Consultorio,Carilla,123,63,4.8,348000,5.2,1.5,36
+CL0062,Consultorio,Corona,125,52,8.0,225000,0.0,2.4,36
+CL0063,Consultorio,Corona,109,26,5.3,312000,0.6,3.4,37
+CL0064,Clinica grande,Carilla,48,23,19.7,375000,0.0,3.8,37
+CL0065,Odontologo independiente,Corona,176,15,1.9,302000,0.8,4.3,35
+CL0066,Odontologo independiente,Corona,4,25,3.4,190000,0.3,2.7,18
+CL0067,Clinica grande,Corona,107,77,30.1,261000,0.0,2.7,32
+CL0068,Consultorio,Protesis removible,145,9,3.3,367000,5.9,5.7,67
+CL0069,Odontologo independiente,Corona,162,46,1.3,247000,0.1,2.9,28
+CL0070,Consultorio,Protesis removible,21,37,5.0,488000,0.8,3.7,35
+CL0071,Consultorio,Protesis removible,31,36,5.6,375000,0.4,3.6,46
+CL0072,Consultorio,Corona,88,34,9.0,185000,0.0,4.2,47
+CL0073,Odontologo independiente,Protesis removible,104,23,2.1,513000,6.1,3.8,102
+CL0074,Odontologo independiente,Protesis removible,13,38,4.0,402000,0.1,5.6,28
+CL0075,Odontologo independiente,Corona,113,39,5.1,268000,0.3,4.5,37
+CL0076,Consultorio,Corona sobre implante,152,10,4.1,684000,0.2,4.0,40
+CL0077,Consultorio,Corona,132,39,6.5,180000,0.0,9.4,40
+CL0078,Odontologo independiente,Protesis removible,21,31,3.5,384000,0.2,5.1,37
+CL0079,Clinica grande,Carilla,42,46,24.5,276000,0.0,2.7,46
+CL0080,Consultorio,Carilla,78,43,7.0,345000,16.8,1.7,78
+CL0081,Consultorio,Corona,101,52,4.9,285000,0.2,4.1,40
+CL0082,Odontologo independiente,Corona sobre implante,163,37,1.7,718000,0.5,2.2,102
+CL0083,Consultorio,Corona,175,13,6.6,265000,0.1,4.0,75
+CL0084,Clinica grande,Corona sobre implante,166,41,34.5,812000,0.0,2.2,36
+CL0085,Clinica grande,Corona,4,79,13.8,214000,0.1,1.8,34
+CL0086,Consultorio,Corona sobre implante,157,11,5.6,768000,0.0,4.9,29
+CL0087,Consultorio,Corona,120,54,13.5,260000,0.1,2.6,29
+CL0088,Consultorio,Carilla,77,57,5.5,319000,0.0,1.9,41
+CL0089,Consultorio,Protesis removible,133,18,6.5,524000,0.1,4.5,42
+CL0090,Odontologo independiente,Corona sobre implante,152,34,3.2,1043000,0.6,4.4,35
+CL0091,Odontologo independiente,Corona,149,38,2.9,290000,0.1,4.7,27
+CL0092,Consultorio,Carilla,107,33,5.6,414000,17.5,3.8,58
+CL0093,Odontologo independiente,Corona,173,12,2.0,224000,0.3,2.6,85
+CL0094,Odontologo independiente,Corona,97,29,4.4,250000,0.2,4.5,34
+CL0095,Consultorio,Corona,143,47,3.9,286000,0.0,3.5,37
+CL0096,Odontologo independiente,Protesis removible,172,38,1.2,426000,0.3,3.5,40
+CL0097,Consultorio,Carilla,138,27,10.0,361000,0.1,3.1,34
+CL0098,Odontologo independiente,Protesis removible,81,51,3.9,453000,1.0,2.5,38
+CL0099,Consultorio,Corona,78,14,3.9,327000,0.2,5.5,25
+CL0100,Consultorio,Corona,175,77,9.0,214000,14.7,9.5,76
+CL0101,Odontologo independiente,Carilla,71,56,2.6,408000,0.0,2.3,36
+CL0102,Clinica grande,Corona,49,50,21.2,322000,0.1,11.1,28
+CL0103,Consultorio,Protesis removible,42,22,6.4,310000,17.1,5.1,66
+CL0104,Consultorio,Protesis removible,110,25,14.0,360000,0.1,3.0,25
+CL0105,Odontologo independiente,Corona,122,30,3.1,241000,0.1,4.9,49
+CL0106,Clinica grande,Protesis removible,176,68,29.2,416000,0.0,1.8,40
+CL0107,Consultorio,Protesis removible,121,65,7.7,346000,4.4,14.7,36
+CL0108,Odontologo independiente,Protesis removible,78,66,1.7,398000,0.3,3.1,29
+CL0109,Consultorio,Corona,94,50,5.3,321000,0.2,2.8,47
+CL0110,Consultorio,Corona,137,39,5.7,255000,0.3,3.0,35
+CL0111,Odontologo independiente,Protesis removible,138,4,1.5,391000,0.0,5.7,42
+CL0112,Consultorio,Corona,172,78,7.8,189000,15.4,1.5,116
+CL0113,Odontologo independiente,Protesis removible,136,11,3.8,560000,0.0,2.4,42
+CL0114,Clinica grande,Corona sobre implante,118,85,21.5,731000,0.0,2.4,27
+CL0115,Consultorio,Corona,166,60,4.2,285000,0.4,2.8,40
+CL0116,Clinica grande,Corona,172,55,15.7,249000,0.0,1.8,38
+CL0117,Clinica grande,Corona,28,78,46.0,266000,0.0,0.7,89
+CL0118,Consultorio,Corona,12,53,4.7,280000,0.6,1.5,73
+CL0119,Consultorio,Corona sobre implante,156,46,3.5,604000,0.0,3.0,39
+CL0120,Consultorio,Protesis removible,132,53,3.1,499000,0.0,3.2,26
+CL0121,Odontologo independiente,Carilla,29,22,1.8,301000,0.6,5.6,63
+CL0122,Odontologo independiente,Corona,26,13,3.9,339000,0.4,5.5,34
+CL0123,Consultorio,Protesis removible,80,65,10.7,403000,17.2,13.9,33
+CL0124,Consultorio,Carilla,22,48,8.0,410000,0.1,2.3,24
+CL0125,Consultorio,Protesis removible,154,32,4.4,486000,0.0,4.3,28
+CL0126,Clinica grande,Protesis removible,178,55,32.6,478000,0.0,3.9,23
+CL0127,Odontologo independiente,Corona,34,37,2.1,267000,0.4,2.8,33
+CL0128,Odontologo independiente,Protesis removible,55,18,3.0,511000,0.1,4.4,32
+CL0129,Consultorio,Corona,150,82,16.4,331000,0.0,2.2,33
+CL0130,Consultorio,Corona sobre implante,6,45,5.6,978000,1.2,3.4,30
+CL0131,Odontologo independiente,Protesis removible,22,28,1.2,378000,0.5,1.5,82
+CL0132,Odontologo independiente,Carilla,132,5,5.3,379000,0.3,5.0,50
+CL0133,Odontologo independiente,Corona,129,14,2.1,323000,1.0,2.7,45
+CL0134,Odontologo independiente,Corona,95,27,2.1,377000,1.1,3.4,26
+CL0135,Consultorio,Protesis removible,70,30,3.0,432000,0.7,4.2,26
+CL0136,Odontologo independiente,Protesis removible,23,3,3.2,326000,0.4,4.3,24
+CL0137,Odontologo independiente,Corona sobre implante,94,24,3.6,705000,0.4,5.2,30
+CL0138,Odontologo independiente,Protesis removible,155,18,2.5,383000,0.2,4.0,28
+CL0139,Consultorio,Protesis removible,40,67,10.1,344000,0.0,3.4,37
+CL0140,Odontologo independiente,Corona,127,27,1.9,227000,0.5,3.9,40
+CL0141,Consultorio,Corona,106,25,11.4,296000,5.9,4.1,32
+CL0142,Consultorio,Protesis removible,130,60,8.8,449000,0.2,2.1,34
+CL0143,Clinica grande,Corona sobre implante,80,69,50.4,800000,0.0,3.8,32
+CL0144,Consultorio,Corona sobre implante,48,42,2.9,810000,0.6,3.7,34
+CL0145,Odontologo independiente,Corona,18,38,1.3,243000,2.6,5.5,38
+CL0146,Consultorio,Corona sobre implante,15,86,9.3,950000,0.1,3.0,35
+CL0147,Clinica grande,Carilla,95,66,27.1,242000,0.0,3.0,33
+CL0148,Consultorio,Carilla,32,47,4.1,273000,0.3,4.6,34
+CL0149,Clinica grande,Corona sobre implante,130,52,23.9,970000,0.0,13.1,40
+CL0150,Consultorio,Corona,110,37,9.5,274000,0.0,3.1,40
+CL0151,Odontologo independiente,Corona,165,19,3.8,299000,0.1,3.2,47
+CL0152,Consultorio,Protesis removible,26,42,7.1,479000,0.1,3.6,30
+CL0153,Consultorio,Corona sobre implante,31,60,6.5,656000,0.0,2.6,27
+CL0154,Consultorio,Corona sobre implante,160,43,7.7,809000,0.2,2.1,41
+CL0155,Odontologo independiente,Protesis removible,178,31,2.3,557000,9.7,10.8,66
+CL0156,Clinica grande,Protesis removible,95,45,54.4,359000,0.0,3.6,35
+CL0157,Odontologo independiente,Corona,99,32,1.9,253000,0.4,18.4,32
+CL0158,Consultorio,Corona,70,23,6.3,235000,0.3,3.0,36
+CL0159,Consultorio,Corona,93,44,5.8,299000,0.0,2.5,40
+CL0160,Odontologo independiente,Carilla,138,21,4.6,339000,0.0,4.2,33
+CL0161,Consultorio,Corona,88,59,4.9,289000,0.2,3.8,26
+CL0162,Consultorio,Corona sobre implante,135,68,9.3,800000,0.0,3.8,62
+CL0163,Consultorio,Protesis removible,163,33,6.1,302000,0.1,5.0,39
+CL0164,Odontologo independiente,Corona,135,20,1.9,278000,10.6,11.6,33
+CL0165,Consultorio,Corona,159,34,2.4,291000,0.3,12.0,31
+CL0166,Clinica grande,Carilla,136,75,22.3,246000,0.1,4.2,32
+CL0167,Odontologo independiente,Corona,114,9,4.9,211000,0.0,5.4,27
+CL0168,Clinica grande,Corona sobre implante,144,80,16.7,686000,0.0,0.9,23
+CL0169,Clinica grande,Corona,120,87,6.1,299000,0.0,2.0,36
+CL0170,Consultorio,Corona sobre implante,162,43,7.1,874000,11.9,14.0,40
+CL0171,Consultorio,Protesis removible,114,81,3.6,310000,0.0,0.8,35
+CL0172,Consultorio,Corona sobre implante,54,57,2.8,761000,0.3,4.1,34
+CL0173,Consultorio,Corona,97,65,4.9,290000,15.9,13.3,36
+CL0174,Odontologo independiente,Carilla,33,13,1.2,329000,0.7,3.4,47
+CL0175,Odontologo independiente,Protesis removible,56,68,3.6,509000,0.3,2.0,22
+CL0176,Clinica grande,Corona sobre implante,106,90,24.8,632000,0.0,0.7,43
+CL0177,Odontologo independiente,Protesis removible,31,12,3.0,375000,0.4,5.1,40
+CL0178,Consultorio,Corona,24,66,4.6,251000,0.6,5.2,36
+CL0179,Odontologo independiente,Protesis removible,132,53,2.1,383000,10.2,2.7,62
+CL0180,Consultorio,Corona sobre implante,42,35,4.7,534000,0.9,4.7,33
+CL0181,Odontologo independiente,Corona,53,8,2.5,354000,13.7,2.8,89
+CL0182,Odontologo independiente,Corona,34,14,0.8,356000,2.2,3.7,78
+CL0183,Odontologo independiente,Carilla,157,29,2.2,269000,0.1,11.5,77
+CL0184,Odontologo independiente,Protesis removible,142,8,3.5,442000,0.0,5.3,29
+CL0185,Consultorio,Protesis removible,81,38,12.9,410000,0.1,3.7,69
+CL0186,Consultorio,Corona sobre implante,174,16,8.7,939000,0.1,4.4,36
+CL0187,Odontologo independiente,Corona,157,37,2.3,326000,0.6,3.4,106
+CL0188,Clinica grande,Corona sobre implante,94,85,10.2,845000,0.0,2.2,43
+CL0189,Odontologo independiente,Protesis removible,28,26,2.4,518000,0.7,6.5,28
+CL0190,Consultorio,Corona sobre implante,177,44,2.5,789000,0.2,4.1,29
+CL0191,Consultorio,Carilla,44,75,4.0,287000,0.1,10.2,24
+CL0192,Consultorio,Corona,129,26,5.4,204000,0.1,4.5,36
+CL0193,Consultorio,Carilla,25,60,5.3,236000,0.1,11.5,26
+CL0194,Consultorio,Corona,134,93,8.9,280000,0.1,0.9,99
+CL0195,Consultorio,Protesis removible,88,38,5.3,362000,8.6,5.7,47
+CL0196,Consultorio,Corona,59,49,3.4,296000,0.3,1.3,46
+CL0197,Odontologo independiente,Corona,58,20,1.8,321000,1.0,5.6,65
+CL0198,Consultorio,Corona,42,37,4.2,218000,0.0,3.6,93
+CL0199,Consultorio,Carilla,142,61,9.7,380000,4.4,2.5,32
+CL0200,Consultorio,Protesis removible,55,43,3.1,324000,5.5,14.3,109
+CL0201,Odontologo independiente,Carilla,118,35,1.8,335000,1.3,13.1,32
+CL0202,Odontologo independiente,Protesis removible,92,27,3.3,436000,0.3,3.4,16
+CL0203,Consultorio,Carilla,51,36,4.1,275000,0.7,4.2,31
+CL0204,Odontologo independiente,Corona,171,7,2.6,328000,0.2,17.1,35
+CL0205,Odontologo independiente,Protesis removible,109,33,2.2,377000,0.4,4.7,35
+CL0206,Odontologo independiente,Corona,162,13,1.9,335000,1.8,14.5,23
+CL0207,Clinica grande,Corona,5,90,9.9,333000,0.1,1.1,29
+CL0208,Consultorio,Protesis removible,166,43,6.0,373000,0.1,3.4,121
+CL0209,Odontologo independiente,Protesis removible,140,35,1.7,418000,0.6,3.5,26
+CL0210,Odontologo independiente,Corona,164,23,2.5,296000,0.6,4.3,32
+CL0211,Consultorio,Protesis removible,115,62,3.1,400000,0.2,2.1,34
+CL0212,Consultorio,Carilla,132,50,7.6,374000,0.2,1.6,22
+CL0213,Consultorio,Corona sobre implante,127,50,8.0,640000,0.2,3.0,40
+CL0214,Consultorio,Corona,22,37,11.2,218000,0.1,4.0,62
+CL0215,Clinica grande,Corona,86,93,17.6,289000,8.3,13.2,37
+CL0216,Consultorio,Carilla,173,47,4.4,217000,0.4,3.7,17
+CL0217,Consultorio,Corona,4,52,9.0,305000,0.1,4.5,32
+CL0218,Odontologo independiente,Protesis removible,171,8,1.4,349000,1.6,5.1,120
+CL0219,Consultorio,Corona sobre implante,157,18,4.1,710000,1.0,4.7,31
+CL0220,Consultorio,Carilla,141,40,5.2,326000,0.6,3.1,31
+CL0221,Consultorio,Corona,11,61,3.6,348000,17.2,2.7,74
+CL0222,Consultorio,Protesis removible,96,57,11.4,549000,0.3,2.5,21
+CL0223,Consultorio,Protesis removible,55,64,9.2,413000,6.4,0.0,27
+CL0224,Consultorio,Corona,179,51,2.2,328000,0.1,2.8,30
+CL0225,Consultorio,Protesis removible,84,37,2.3,370000,1.5,4.3,117
+CL0226,Consultorio,Protesis removible,160,50,4.5,343000,13.4,2.1,37
+CL0227,Consultorio,Carilla,160,53,7.5,404000,0.1,2.4,33
+CL0228,Odontologo independiente,Corona,54,17,3.0,267000,0.4,15.2,34
+CL0229,Consultorio,Carilla,26,54,11.3,368000,0.2,4.6,35
+CL0230,Odontologo independiente,Corona,161,38,2.5,283000,13.0,3.2,43
+CL0231,Clinica grande,Carilla,87,98,13.6,317000,0.2,11.3,31
+CL0232,Consultorio,Carilla,35,67,7.2,277000,0.0,1.9,40
+CL0233,Odontologo independiente,Corona,152,17,1.3,319000,2.0,3.9,34
+CL0234,Consultorio,Protesis removible,82,42,4.1,289000,0.4,3.3,20
+CL0235,Consultorio,Protesis removible,82,39,2.9,509000,0.3,5.1,23
+CL0236,Consultorio,Protesis removible,27,28,4.0,456000,0.2,4.3,28
+CL0237,Consultorio,Corona,67,54,4.5,339000,6.4,1.5,121
+CL0238,Odontologo independiente,Corona,39,31,1.7,230000,0.1,4.4,18
+CL0239,Consultorio,Protesis removible,100,53,13.3,408000,0.0,3.3,22
+CL0240,Consultorio,Corona sobre implante,164,24,6.3,857000,0.4,4.3,36
+CL0241,Odontologo independiente,Corona,170,25,2.6,311000,0.4,6.1,43
+CL0242,Odontologo independiente,Protesis removible,95,42,2.4,341000,0.4,2.3,86
+CL0243,Odontologo independiente,Corona,12,25,4.5,180000,0.8,3.8,39
+CL0244,Consultorio,Protesis removible,109,46,3.9,477000,0.7,3.2,18
+CL0245,Clinica grande,Corona,99,80,30.8,320000,0.0,0.8,36
+CL0246,Clinica grande,Corona,36,65,15.0,357000,0.1,1.7,35
+CL0247,Consultorio,Corona,124,36,5.6,324000,0.1,2.8,32
+CL0248,Clinica grande,Corona,57,79,27.5,249000,0.0,2.5,30
+CL0249,Clinica grande,Corona sobre implante,20,85,12.0,895000,0.1,0.6,32
+CL0250,Consultorio,Corona,173,34,5.0,197000,0.0,10.2,36
+CL0251,Odontologo independiente,Corona,2,29,2.2,351000,8.8,16.4,77
+CL0252,Consultorio,Protesis removible,38,69,7.5,277000,0.1,1.9,68
+CL0253,Clinica grande,Protesis removible,121,84,19.9,370000,0.0,0.0,34
+CL0254,Odontologo independiente,Corona,145,45,7.8,212000,0.1,3.4,36
+CL0255,Consultorio,Carilla,47,53,14.0,315000,0.2,2.4,26
+CL0256,Odontologo independiente,Protesis removible,3,29,0.8,453000,0.5,13.3,41
+CL0257,Consultorio,Protesis removible,125,62,6.3,290000,0.2,16.7,44
+CL0258,Odontologo independiente,Corona,123,19,2.8,303000,0.1,3.3,98
+CL0259,Odontologo independiente,Corona sobre implante,174,48,2.6,561000,0.7,2.5,40
+CL0260,Consultorio,Protesis removible,52,41,11.2,372000,0.2,1.9,37
+CL0261,Odontologo independiente,Corona,49,20,0.6,341000,10.4,15.2,44
+CL0262,Consultorio,Corona sobre implante,30,26,3.7,745000,0.1,3.8,30
+CL0263,Consultorio,Corona,144,59,12.0,291000,0.1,0.0,35
+CL0264,Odontologo independiente,Protesis removible,119,41,3.8,447000,5.4,1.3,98
+CL0265,Consultorio,Corona,62,52,16.8,355000,0.0,3.0,44
+CL0266,Consultorio,Corona,7,66,12.6,301000,0.0,1.9,42
+CL0267,Consultorio,Protesis removible,78,44,3.4,462000,1.0,4.2,42
+CL0268,Clinica grande,Protesis removible,4,79,35.0,393000,6.2,0.8,105
+CL0269,Odontologo independiente,Corona,73,12,1.9,197000,6.0,5.3,27
+CL0270,Consultorio,Corona sobre implante,166,27,6.6,637000,5.4,5.5,24
+CL0271,Clinica grande,Corona sobre implante,147,82,22.6,748000,0.0,2.1,31
+CL0272,Odontologo independiente,Protesis removible,47,9,1.8,524000,0.7,6.0,109
+CL0273,Odontologo independiente,Corona,16,34,1.8,257000,0.2,3.8,44
+CL0274,Odontologo independiente,Protesis removible,153,24,3.1,275000,0.3,3.4,29
+CL0275,Consultorio,Protesis removible,3,71,4.7,534000,0.7,1.5,32
+CL0276,Consultorio,Protesis removible,16,75,6.6,464000,0.0,13.9,34
+CL0277,Clinica grande,Protesis removible,106,76,27.4,416000,0.1,3.4,31
+CL0278,Clinica grande,Protesis removible,7,45,17.3,314000,12.1,4.1,16
+CL0279,Consultorio,Corona,65,37,5.3,204000,9.4,4.4,35
+CL0280,Consultorio,Carilla,94,39,10.1,277000,0.1,4.5,32
+CL0281,Odontologo independiente,Corona sobre implante,144,15,1.0,872000,0.7,5.0,33
+CL0282,Consultorio,Corona sobre implante,127,21,4.4,817000,0.1,4.4,43
+CL0283,Clinica grande,Corona,32,67,12.0,295000,0.1,4.0,30
+CL0284,Odontologo independiente,Protesis removible,31,2,2.4,511000,1.0,6.0,87
+CL0285,Odontologo independiente,Protesis removible,84,21,7.4,483000,0.1,5.0,21
+CL0286,Odontologo independiente,Protesis removible,66,14,1.3,525000,0.0,4.5,34
+CL0287,Odontologo independiente,Corona,170,54,3.8,329000,0.1,3.0,23
+CL0288,Odontologo independiente,Corona sobre implante,109,22,4.2,774000,0.4,3.8,80
+CL0289,Consultorio,Corona,166,44,2.3,308000,0.7,3.2,29
+CL0290,Odontologo independiente,Carilla,54,14,1.2,359000,2.4,3.7,73
+CL0291,Consultorio,Protesis removible,41,65,5.9,504000,0.1,16.5,99
+CL0292,Consultorio,Corona,51,16,3.8,257000,0.1,4.8,29
+CL0293,Odontologo independiente,Protesis removible,98,23,2.5,346000,11.1,2.5,89
+CL0294,Consultorio,Corona,110,25,11.1,373000,17.9,5.1,36
+CL0295,Odontologo independiente,Corona,24,29,3.0,314000,0.2,3.0,25
+CL0296,Consultorio,Protesis removible,27,18,5.5,329000,0.2,2.9,38
+CL0297,Clinica grande,Corona,14,56,28.4,195000,0.0,1.3,30
+CL0298,Clinica grande,Protesis removible,95,81,25.8,393000,0.0,2.8,31
+CL0299,Consultorio,Corona,90,24,3.4,307000,0.0,1.4,53
+CL0300,Odontologo independiente,Corona sobre implante,144,22,1.7,644000,5.3,3.9,35
+CL0301,Odontologo independiente,Protesis removible,43,36,2.7,475000,0.0,1.1,40
+CL0302,Consultorio,Protesis removible,85,8,5.8,429000,0.0,4.7,23
+CL0303,Clinica grande,Corona,96,73,25.4,239000,0.1,4.6,32
+CL0304,Consultorio,Corona,24,18,9.0,235000,0.0,5.0,39
+CL0305,Consultorio,Corona,164,32,2.0,300000,0.4,4.1,34
+CL0306,Consultorio,Corona sobre implante,27,48,11.7,644000,0.0,3.2,37
+CL0307,Consultorio,Corona sobre implante,123,35,2.5,674000,0.4,3.7,34
+CL0308,Consultorio,Corona,96,53,6.0,286000,0.1,2.3,45
+CL0309,Consultorio,Protesis removible,89,34,6.4,393000,0.1,2.2,25
+CL0310,Clinica grande,Corona sobre implante,35,72,20.6,501000,0.1,3.4,35
+CL0311,Consultorio,Corona,155,37,6.5,321000,0.0,2.8,37
+CL0312,Odontologo independiente,Protesis removible,79,14,1.7,437000,0.1,4.9,37
+CL0313,Consultorio,Corona,120,38,4.3,347000,8.9,15.6,39
+CL0314,Odontologo independiente,Corona,155,34,2.1,263000,0.1,4.4,37
+CL0315,Odontologo independiente,Carilla,136,35,2.4,295000,11.7,4.4,35
+CL0316,Consultorio,Corona,147,8,4.4,180000,0.1,4.2,25
+CL0317,Consultorio,Corona,152,75,6.9,212000,0.1,0.1,36
+CL0318,Consultorio,Corona sobre implante,164,59,4.1,834000,0.1,2.7,21
+CL0319,Clinica grande,Protesis removible,47,79,16.8,300000,0.1,1.9,31
+CL0320,Clinica grande,Corona,44,45,19.7,222000,0.1,2.5,34
+CL0321,Odontologo independiente,Corona,159,37,2.7,315000,0.6,2.9,15
+CL0322,Odontologo independiente,Corona,74,3,1.9,281000,0.9,5.5,44
+CL0323,Consultorio,Corona,117,68,7.1,313000,0.0,0.8,23
+CL0324,Odontologo independiente,Corona,44,18,4.5,288000,0.4,3.8,102
+CL0325,Consultorio,Corona,16,28,4.8,304000,0.0,5.4,36
+CL0326,Odontologo independiente,Carilla,130,47,3.9,353000,16.5,4.0,37
+CL0327,Consultorio,Corona,79,53,3.3,300000,0.2,3.1,38
+CL0328,Consultorio,Carilla,43,18,8.0,334000,0.2,2.3,31
+CL0329,Odontologo independiente,Corona,85,10,2.0,255000,0.4,5.9,65
+CL0330,Odontologo independiente,Corona,148,9,5.7,261000,0.0,4.9,34
+CL0331,Consultorio,Corona sobre implante,50,27,4.7,907000,0.5,2.9,30
+CL0332,Odontologo independiente,Carilla,39,15,1.5,363000,15.2,17.2,27
+CL0333,Consultorio,Corona sobre implante,138,46,9.6,789000,0.0,3.1,35
+CL0334,Odontologo independiente,Corona,114,25,2.6,229000,0.0,3.7,36
+CL0335,Odontologo independiente,Protesis removible,66,5,2.3,409000,0.0,15.7,40
+CL0336,Consultorio,Protesis removible,86,49,2.0,402000,0.3,3.8,22
+CL0337,Odontologo independiente,Protesis removible,69,42,2.6,328000,10.7,2.4,34
+CL0338,Consultorio,Corona,69,37,5.7,278000,0.2,2.3,75
+CL0339,Odontologo independiente,Corona,105,53,2.3,180000,0.2,3.0,37
+CL0340,Odontologo independiente,Protesis removible,19,39,1.5,384000,0.4,11.2,31
+CL0341,Odontologo independiente,Corona,107,40,3.9,180000,0.3,3.3,14
+CL0342,Odontologo independiente,Corona,105,29,2.2,289000,0.7,5.8,24
+CL0343,Clinica grande,Corona,83,91,19.5,247000,0.0,0.0,29
+CL0344,Consultorio,Protesis removible,32,38,2.9,325000,14.6,16.2,28
+CL0345,Odontologo independiente,Protesis removible,132,13,2.0,451000,0.1,4.7,114
+CL0346,Consultorio,Carilla,146,27,3.6,375000,5.0,12.6,33
+CL0347,Consultorio,Corona,82,46,11.0,203000,8.3,15.6,34
+CL0348,Consultorio,Protesis removible,41,26,6.6,432000,0.2,5.6,32
+CL0349,Consultorio,Protesis removible,134,47,4.5,349000,0.1,2.8,34
+CL0350,Odontologo independiente,Carilla,138,32,2.0,242000,1.8,2.8,33
+CL0351,Clinica grande,Corona sobre implante,169,59,41.7,681000,0.0,3.8,32
+CL0352,Odontologo independiente,Protesis removible,50,24,2.3,350000,0.4,4.2,21
+CL0353,Clinica grande,Protesis removible,162,66,21.6,499000,0.0,4.3,37
+CL0354,Consultorio,Carilla,72,43,13.6,348000,0.0,3.6,34
+CL0355,Clinica grande,Corona sobre implante,111,92,25.6,557000,11.8,1.1,26
+CL0356,Odontologo independiente,Corona,18,28,3.3,284000,0.4,3.2,30
+CL0357,Consultorio,Corona,179,59,5.0,298000,0.6,2.7,30
+CL0358,Consultorio,Protesis removible,129,37,5.0,266000,0.1,5.2,62
+CL0359,Consultorio,Corona,165,67,8.6,223000,0.0,1.8,34
+CL0360,Consultorio,Corona,127,52,5.8,360000,0.2,2.4,94
+CL0361,Odontologo independiente,Corona,164,18,2.5,217000,0.2,3.6,34
+CL0362,Consultorio,Corona,91,27,5.7,208000,0.2,4.5,17
+CL0363,Odontologo independiente,Corona,18,5,2.2,231000,0.3,3.7,28
+CL0364,Odontologo independiente,Corona,146,41,2.0,287000,1.4,2.0,35
+CL0365,Odontologo independiente,Protesis removible,119,10,1.2,462000,0.2,5.2,85
+CL0366,Consultorio,Corona,35,59,10.6,212000,0.1,3.6,28
+CL0367,Odontologo independiente,Carilla,157,14,1.7,351000,0.0,4.0,31
+CL0368,Clinica grande,Corona,57,82,12.6,217000,0.0,1.8,30
+CL0369,Odontologo independiente,Carilla,179,12,2.2,317000,9.7,5.4,22
+CL0370,Consultorio,Corona,151,25,4.4,308000,16.5,11.9,25
+CL0371,Consultorio,Corona,43,17,10.4,213000,0.3,4.3,25
+CL0372,Clinica grande,Corona,26,98,28.9,180000,0.1,0.5,34
+CL0373,Odontologo independiente,Corona,117,8,1.7,207000,2.5,4.8,39
+CL0374,Consultorio,Protesis removible,160,53,4.0,442000,0.2,2.9,37
+CL0375,Odontologo independiente,Protesis removible,68,5,2.9,344000,0.1,4.1,34
+CL0376,Clinica grande,Corona,97,100,15.8,349000,0.1,2.1,50
+CL0377,Odontologo independiente,Corona,128,12,1.2,309000,0.5,6.4,31
+CL0378,Consultorio,Carilla,140,48,2.8,402000,0.3,1.6,23
+CL0379,Consultorio,Corona sobre implante,2,28,8.1,937000,0.2,3.5,19
+CL0380,Odontologo independiente,Corona,106,5,1.1,240000,0.2,5.5,46
+CL0381,Clinica grande,Corona,82,91,12.7,296000,0.0,1.2,32
+CL0382,Consultorio,Corona,138,54,8.1,253000,0.2,2.8,32
+CL0383,Consultorio,Protesis removible,64,25,8.5,490000,0.0,4.9,31
+CL0384,Clinica grande,Corona,5,70,12.8,296000,0.0,0.5,39
+CL0385,Consultorio,Corona,29,39,4.5,231000,0.5,3.3,37
+CL0386,Consultorio,Corona sobre implante,73,42,9.2,746000,0.0,3.7,33
+CL0387,Consultorio,Corona,170,47,6.5,330000,0.0,3.4,26
+CL0388,Odontologo independiente,Protesis removible,82,53,1.8,185000,0.4,0.9,39
+CL0389,Consultorio,Corona,75,58,6.2,318000,0.2,2.5,19
+CL0390,Consultorio,Protesis removible,44,57,7.1,505000,0.4,16.7,71
+CL0391,Odontologo independiente,Corona,34,33,1.3,268000,0.5,4.5,90
+CL0392,Consultorio,Protesis removible,29,23,3.7,551000,0.0,2.3,46
+CL0393,Consultorio,Corona,47,39,9.7,289000,0.0,2.6,44
+CL0394,Consultorio,Corona,139,29,13.0,248000,0.0,6.4,41
+CL0395,Consultorio,Protesis removible,60,33,8.9,547000,0.1,5.6,42
+CL0396,Odontologo independiente,Corona,125,28,2.0,361000,1.6,15.5,97
+CL0397,Consultorio,Carilla,139,49,4.4,351000,0.5,4.4,20
+CL0398,Odontologo independiente,Corona,6,18,2.2,311000,0.3,4.0,21
+CL0399,Consultorio,Corona sobre implante,135,35,9.5,693000,0.3,4.9,28
+CL0400,Consultorio,Corona sobre implante,31,21,10.4,683000,0.1,3.3,24
+CL0401,Consultorio,Corona,56,68,5.9,227000,0.0,2.0,32
+CL0402,Consultorio,Corona,166,59,7.1,354000,0.4,3.5,49
+CL0403,Consultorio,Protesis removible,16,29,3.1,385000,8.4,16.3,111
+CL0404,Clinica grande,Protesis removible,84,70,20.4,516000,0.1,1.0,94
+CL0405,Clinica grande,Corona,107,91,41.9,294000,0.1,0.6,26
+CL0406,Odontologo independiente,Corona,12,39,2.0,372000,0.4,2.9,34
+CL0407,Consultorio,Carilla,142,31,7.3,413000,0.0,3.2,74
+CL0408,Odontologo independiente,Corona sobre implante,19,34,3.2,738000,7.5,4.0,25
+CL0409,Clinica grande,Corona,140,69,31.3,226000,0.0,2.6,36
+CL0410,Odontologo independiente,Corona,8,14,2.3,277000,0.2,4.0,31
+CL0411,Consultorio,Corona,118,57,4.6,290000,0.1,3.4,30
+CL0412,Odontologo independiente,Carilla,93,13,0.8,288000,0.0,3.2,95
+CL0413,Odontologo independiente,Corona,146,36,1.3,333000,0.7,4.8,34
+CL0414,Odontologo independiente,Protesis removible,11,20,1.9,428000,0.3,5.5,31
+CL0415,Consultorio,Corona sobre implante,111,60,8.2,644000,0.3,12.5,31
+CL0416,Clinica grande,Corona sobre implante,126,82,23.8,737000,0.0,2.0,100
+CL0417,Odontologo independiente,Corona,164,10,3.6,190000,0.2,2.9,31
+CL0418,Consultorio,Corona,39,70,3.4,304000,0.5,2.2,30
+CL0419,Clinica grande,Corona,87,86,9.8,180000,0.1,1.7,32
+CL0420,Consultorio,Protesis removible,59,17,7.8,461000,0.2,5.0,43
+CL0421,Clinica grande,Corona,115,60,48.3,292000,0.0,4.7,36
+CL0422,Consultorio,Corona,55,54,6.5,270000,0.0,12.5,39
+CL0423,Consultorio,Corona,104,39,4.6,217000,0.2,14.0,28
+CL0424,Odontologo independiente,Corona,115,25,3.2,204000,0.3,12.9,32
+CL0425,Consultorio,Corona,119,56,11.1,395000,0.2,1.8,28
+CL0426,Consultorio,Carilla,59,67,3.4,226000,0.0,2.9,57
+CL0427,Consultorio,Corona,69,80,5.1,229000,14.9,13.4,25
+CL0428,Clinica grande,Corona,137,88,34.1,284000,0.0,2.2,80
+CL0429,Odontologo independiente,Carilla,27,10,2.4,349000,1.3,3.4,33
+CL0430,Odontologo independiente,Corona,33,22,1.5,327000,12.2,13.8,42
+CL0431,Consultorio,Carilla,150,44,5.2,382000,0.2,4.7,25
+CL0432,Clinica grande,Corona,13,88,14.6,309000,0.0,2.9,35
+CL0433,Clinica grande,Protesis removible,98,70,11.3,490000,0.1,2.6,34
+CL0434,Odontologo independiente,Protesis removible,174,30,2.5,373000,0.8,3.9,21
+CL0435,Clinica grande,Corona,121,82,12.1,374000,0.0,1.5,40
+CL0436,Clinica grande,Corona,133,96,20.6,316000,0.1,1.6,48
+CL0437,Odontologo independiente,Carilla,81,20,1.4,344000,2.0,4.1,30
+CL0438,Consultorio,Carilla,79,46,7.2,317000,0.3,15.7,41
+CL0439,Consultorio,Corona,76,23,5.0,259000,0.0,4.5,21
+CL0440,Consultorio,Corona,146,33,5.3,266000,5.8,15.6,37
+CL0441,Odontologo independiente,Protesis removible,82,10,1.1,442000,0.5,5.9,23
+CL0442,Consultorio,Protesis removible,25,17,6.5,461000,0.2,3.8,40
+CL0443,Odontologo independiente,Corona,174,16,1.8,387000,0.3,3.5,45
+CL0444,Consultorio,Corona,108,35,4.1,274000,0.2,4.0,24
+CL0445,Consultorio,Corona sobre implante,79,84,7.1,842000,0.1,1.0,23
+CL0446,Consultorio,Protesis removible,69,66,8.8,421000,0.2,11.6,47
+CL0447,Odontologo independiente,Corona sobre implante,75,8,4.6,975000,0.2,4.4,44
+CL0448,Consultorio,Corona,94,31,6.4,326000,0.2,4.2,50
+CL0449,Consultorio,Carilla,28,16,6.5,288000,0.1,4.4,36
+CL0450,Consultorio,Corona,12,44,3.8,217000,0.2,2.8,77
+CL0451,Odontologo independiente,Corona,151,4,1.6,300000,0.8,5.6,27
+CL0452,Clinica grande,Corona sobre implante,73,31,36.2,815000,0.1,2.0,40
+CL0453,Consultorio,Carilla,80,22,4.8,319000,0.2,4.1,42
+CL0454,Odontologo independiente,Corona,6,40,4.9,225000,0.0,3.2,44
+CL0455,Consultorio,Corona sobre implante,11,75,3.4,933000,0.1,3.0,33
+CL0456,Clinica grande,Protesis removible,72,90,20.2,466000,8.1,1.2,119
+CL0457,Odontologo independiente,Corona,8,39,2.0,260000,0.0,4.8,42
+CL0458,Odontologo independiente,Protesis removible,62,8,1.6,316000,0.7,5.0,43
+CL0459,Consultorio,Corona,76,41,5.2,392000,0.0,2.1,27
+CL0460,Clinica grande,Corona,171,49,20.0,334000,0.0,3.2,31
+CL0461,Odontologo independiente,Corona,116,0,2.4,318000,0.7,4.2,39
+CL0462,Consultorio,Corona,144,38,5.7,270000,0.0,4.5,31
+CL0463,Odontologo independiente,Corona,116,12,3.5,247000,0.4,4.3,118
+CL0464,Consultorio,Corona,162,15,18.2,251000,10.8,10.6,24
+CL0465,Consultorio,Corona,94,22,8.3,376000,0.3,11.4,34
+CL0466,Clinica grande,Corona,34,75,26.1,223000,0.0,2.1,40
+CL0467,Consultorio,Carilla,120,44,3.8,256000,0.1,3.7,38
+CL0468,Odontologo independiente,Protesis removible,84,35,1.7,413000,0.0,2.3,33
+CL0469,Clinica grande,Corona,125,84,10.2,374000,0.0,15.0,31
+CL0470,Consultorio,Corona,66,52,7.4,189000,0.1,3.1,33
+CL0471,Consultorio,Corona,62,58,3.1,320000,0.2,4.2,43
+CL0472,Odontologo independiente,Corona,133,44,3.0,207000,0.3,2.4,25
+CL0473,Consultorio,Corona,168,67,4.3,286000,0.5,1.6,24
+CL0474,Odontologo independiente,Corona,109,37,2.6,302000,9.1,7.2,106
+CL0475,Consultorio,Protesis removible,136,59,7.6,428000,0.3,4.2,36
+CL0476,Odontologo independiente,Corona,50,36,0.9,253000,2.3,4.3,86
+CL0477,Odontologo independiente,Corona,18,6,1.5,230000,2.3,10.6,38
+CL0478,Odontologo independiente,Corona,160,10,2.6,210000,1.3,3.3,24
+CL0479,Consultorio,Corona sobre implante,3,79,7.4,823000,13.0,4.0,26
+CL0480,Odontologo independiente,Corona sobre implante,120,7,3.2,861000,0.2,5.0,29
+CL0481,Consultorio,Protesis removible,65,24,5.1,326000,0.1,2.6,37
+CL0482,Consultorio,Corona sobre implante,50,42,5.8,916000,0.1,3.2,37
+CL0483,Consultorio,Protesis removible,176,7,13.4,507000,0.0,3.9,28
+CL0484,Consultorio,Protesis removible,33,77,6.6,375000,0.0,2.7,57
+CL0485,Clinica grande,Corona sobre implante,126,72,31.9,814000,0.0,2.2,39
+CL0486,Odontologo independiente,Protesis removible,122,35,2.0,467000,0.6,5.8,38
+CL0487,Clinica grande,Corona,97,93,11.2,254000,0.0,0.1,41
+CL0488,Consultorio,Corona,3,56,7.4,364000,0.4,3.2,26
+CL0489,Odontologo independiente,Corona,154,24,2.8,206000,1.3,4.5,31
+CL0490,Clinica grande,Corona,171,66,33.6,180000,0.0,3.1,37
+CL0491,Consultorio,Protesis removible,100,35,4.0,539000,0.3,4.2,29
+CL0492,Consultorio,Protesis removible,176,27,4.4,371000,0.2,3.9,35
+CL0493,Odontologo independiente,Corona sobre implante,34,15,0.8,892000,0.3,5.3,37
+CL0494,Odontologo independiente,Corona,179,57,2.8,231000,0.5,3.9,36
+CL0495,Odontologo independiente,Corona,135,42,3.2,269000,0.7,2.6,24
+CL0496,Odontologo independiente,Protesis removible,126,27,1.6,435000,0.8,5.3,25
+CL0497,Consultorio,Carilla,179,15,4.9,331000,0.3,18.1,22
+CL0498,Consultorio,Corona,180,35,5.4,406000,0.2,2.0,45
+CL0499,Clinica grande,Corona,40,77,45.0,244000,0.0,1.5,34
+CL0500,Consultorio,Corona,125,59,9.0,225000,4.7,0.7,42
+CL0501,Odontologo independiente,Corona,64,23,3.7,305000,0.0,4.2,31
+CL0502,Consultorio,Carilla,10,43,5.6,341000,0.0,2.1,35
+CL0503,Odontologo independiente,Carilla,35,59,1.8,315000,0.7,3.2,76
+CL0504,Consultorio,Corona,177,14,9.8,281000,0.3,4.4,43
+CL0505,Clinica grande,Corona sobre implante,63,71,10.4,1001000,0.1,1.8,37
+CL0506,Consultorio,Corona sobre implante,102,52,7.6,1106000,14.8,3.3,35
+CL0507,Consultorio,Corona,59,15,3.3,291000,0.0,6.6,28
+CL0508,Clinica grande,Corona sobre implante,11,93,31.3,782000,0.0,1.2,30
+CL0509,Consultorio,Corona,152,44,7.5,337000,0.0,3.9,36
+CL0510,Odontologo independiente,Corona,8,74,1.5,322000,0.1,2.5,39
+CL0511,Consultorio,Corona,44,64,6.6,258000,0.2,1.5,31
+CL0512,Consultorio,Protesis removible,98,49,3.6,494000,0.5,2.5,41
+CL0513,Odontologo independiente,Corona,45,28,1.4,320000,0.9,1.5,27
+CL0514,Consultorio,Corona,160,22,5.0,389000,0.1,5.8,40
+CL0515,Consultorio,Carilla,2,80,4.3,306000,0.2,0.7,41
+CL0516,Odontologo independiente,Corona,134,25,3.4,228000,2.1,5.1,42
+CL0517,Consultorio,Corona,76,57,15.3,208000,0.0,4.1,107
+CL0518,Consultorio,Corona,135,46,6.0,225000,0.1,3.1,42
+CL0519,Consultorio,Corona,173,4,6.0,298000,0.2,5.9,122
+CL0520,Clinica grande,Carilla,150,90,30.7,263000,0.0,2.2,37
+CL0521,Odontologo independiente,Corona,89,58,1.9,329000,0.1,3.9,38
+CL0522,Odontologo independiente,Protesis removible,38,5,2.7,498000,0.3,3.3,33
+CL0523,Odontologo independiente,Protesis removible,81,2,0.9,430000,0.7,4.3,36
+CL0524,Consultorio,Protesis removible,100,55,4.4,354000,0.1,1.8,32
+CL0525,Consultorio,Protesis removible,161,60,3.0,469000,0.6,2.5,26
+CL0526,Odontologo independiente,Corona sobre implante,7,8,0.9,875000,0.4,4.9,36
+CL0527,Odontologo independiente,Carilla,114,16,3.4,197000,0.5,3.9,40
+CL0528,Odontologo independiente,Corona,119,7,1.9,355000,8.7,5.4,36
+CL0529,Consultorio,Protesis removible,112,43,12.1,323000,0.2,2.9,32
+CL0530,Odontologo independiente,Protesis removible,45,29,4.3,471000,0.3,3.0,45
+CL0531,Odontologo independiente,Corona,76,27,2.1,239000,0.4,5.0,27
+CL0532,Odontologo independiente,Corona sobre implante,32,24,1.8,703000,0.0,3.1,31
+CL0533,Consultorio,Protesis removible,164,58,4.2,355000,0.1,3.9,14
+CL0534,Odontologo independiente,Carilla,30,9,0.7,261000,0.9,4.6,35
+CL0535,Odontologo independiente,Corona,7,28,1.7,242000,0.5,2.7,33
+CL0536,Consultorio,Protesis removible,82,69,5.3,421000,0.1,2.5,26
+CL0537,Consultorio,Protesis removible,176,44,4.4,494000,0.1,1.8,23
+CL0538,Clinica grande,Corona,49,58,14.1,297000,0.0,3.4,38
+CL0539,Odontologo independiente,Protesis removible,2,2,2.1,463000,0.1,7.0,103
+CL0540,Consultorio,Protesis removible,65,70,5.0,325000,0.1,2.1,26
+CL0541,Consultorio,Corona sobre implante,115,48,6.3,638000,0.1,3.3,29
+CL0542,Odontologo independiente,Corona,143,23,1.4,250000,0.6,3.2,92
+CL0543,Odontologo independiente,Corona,8,30,5.1,336000,0.1,6.0,88
+CL0544,Clinica grande,Corona,57,71,27.8,294000,0.3,2.3,32
+CL0545,Odontologo independiente,Protesis removible,168,26,2.0,407000,1.5,4.5,44
+CL0546,Consultorio,Carilla,138,21,4.2,269000,5.1,3.5,35
+CL0547,Consultorio,Carilla,43,56,3.8,364000,0.5,3.4,31
+CL0548,Consultorio,Corona,29,35,8.5,180000,0.2,2.9,43
+CL0549,Consultorio,Carilla,23,20,4.9,272000,0.1,3.4,40
+CL0550,Odontologo independiente,Corona,162,39,2.2,281000,0.5,2.6,30
+CL0551,Odontologo independiente,Corona,3,13,2.6,327000,0.5,5.4,111
+CL0552,Clinica grande,Corona,160,86,17.1,269000,0.0,2.4,37
+CL0553,Consultorio,Protesis removible,73,16,6.7,354000,0.2,3.3,52
+CL0554,Odontologo independiente,Corona,5,11,0.9,180000,2.4,4.0,33
+CL0555,Consultorio,Corona sobre implante,81,14,3.9,740000,0.8,5.3,34
+CL0556,Odontologo independiente,Protesis removible,132,9,0.9,387000,1.7,5.4,23
+CL0557,Consultorio,Corona,88,21,4.9,350000,0.1,2.8,28
+CL0558,Consultorio,Protesis removible,89,60,4.9,378000,0.1,3.2,29
+CL0559,Consultorio,Protesis removible,105,41,13.1,397000,0.1,13.7,35
+CL0560,Consultorio,Protesis removible,161,34,4.2,446000,0.1,6.3,34
+CL0561,Odontologo independiente,Corona,89,19,2.3,262000,0.9,4.0,36
+CL0562,Consultorio,Carilla,171,31,7.1,397000,0.1,4.0,102
+CL0563,Consultorio,Corona,153,40,11.1,284000,0.0,4.9,68
+CL0564,Odontologo independiente,Corona sobre implante,63,32,2.7,762000,0.4,2.5,35
+CL0565,Consultorio,Corona,16,71,8.3,183000,0.0,1.7,21
+CL0566,Consultorio,Carilla,161,85,13.2,223000,10.5,14.3,21
+CL0567,Odontologo independiente,Protesis removible,180,18,1.0,446000,0.0,4.7,39
+CL0568,Odontologo independiente,Corona,145,22,1.7,284000,1.6,2.6,107
+CL0569,Odontologo independiente,Protesis removible,131,19,1.8,345000,0.9,4.4,30
+CL0570,Odontologo independiente,Corona,175,11,2.1,222000,17.9,18.0,17
+CL0571,Odontologo independiente,Protesis removible,14,33,1.6,388000,9.0,11.0,25
+CL0572,Odontologo independiente,Corona,22,2,3.5,332000,10.0,5.9,32
+CL0573,Consultorio,Corona,157,51,4.5,223000,0.1,2.6,33
+CL0574,Consultorio,Carilla,134,25,4.4,289000,0.0,3.4,21
+CL0575,Consultorio,Protesis removible,141,43,7.2,266000,0.3,3.5,19
+CL0576,Consultorio,Corona,138,66,4.2,310000,10.7,1.7,30
+CL0577,Consultorio,Corona,58,32,3.7,194000,0.4,1.4,28
+CL0578,Clinica grande,Carilla,179,66,12.0,317000,0.0,3.4,43
+CL0579,Consultorio,Corona,104,55,5.5,253000,0.0,2.6,34
+CL0580,Odontologo independiente,Corona,38,8,3.4,369000,0.0,4.5,29
+CL0581,Odontologo independiente,Corona sobre implante,175,27,3.1,599000,0.3,3.6,28
+CL0582,Clinica grande,Corona,107,91,26.3,236000,0.0,0.7,39
+CL0583,Consultorio,Corona sobre implante,112,52,6.2,833000,0.1,3.7,39
+CL0584,Consultorio,Protesis removible,152,77,4.6,486000,0.2,2.8,28
+CL0585,Consultorio,Corona,95,49,5.6,264000,0.0,2.1,27
+CL0586,Consultorio,Corona,179,37,3.4,317000,0.3,4.0,36
+CL0587,Clinica grande,Protesis removible,153,74,23.1,445000,0.0,2.7,27
+CL0588,Odontologo independiente,Corona,85,21,3.4,282000,0.1,3.3,14
+CL0589,Consultorio,Corona,142,52,2.8,240000,0.8,3.9,36
+CL0590,Consultorio,Corona sobre implante,58,6,10.6,952000,0.2,4.0,22
+CL0591,Consultorio,Corona,73,63,2.2,243000,0.4,3.8,40
+CL0592,Consultorio,Protesis removible,147,46,4.1,440000,14.1,16.0,85
+CL0593,Odontologo independiente,Corona,133,52,1.3,223000,0.2,2.6,48
+CL0594,Consultorio,Corona,163,17,4.2,364000,0.1,3.9,31
+CL0595,Consultorio,Protesis removible,96,65,5.0,530000,0.1,2.3,18
+CL0596,Clinica grande,Corona,88,82,37.7,296000,0.0,1.4,21
+CL0597,Odontologo independiente,Carilla,74,45,1.4,275000,4.3,1.9,22
+CL0598,Consultorio,Protesis removible,37,57,3.9,533000,0.4,4.8,106
+CL0599,Odontologo independiente,Corona sobre implante,81,15,1.5,631000,15.3,4.5,120
+CL0600,Clinica grande,Protesis removible,23,99,16.7,468000,0.1,0.9,119
+CL0601,Consultorio,Protesis removible,166,16,4.4,456000,0.1,2.9,29
+CL0602,Odontologo independiente,Protesis removible,27,7,1.2,439000,8.6,3.3,32
+CL0603,Consultorio,Protesis removible,166,22,6.5,451000,0.1,3.4,30
+CL0604,Consultorio,Protesis removible,10,17,5.5,519000,0.4,5.4,19
+CL0605,Odontologo independiente,Protesis removible,32,18,3.3,247000,17.5,3.6,98
+CL0606,Consultorio,Corona,20,57,10.2,186000,0.2,3.5,25
+CL0607,Odontologo independiente,Carilla,23,7,1.1,297000,0.8,4.6,27
+CL0608,Consultorio,Protesis removible,80,8,11.8,338000,8.5,18.4,39
+CL0609,Consultorio,Corona,135,30,7.3,277000,0.1,4.5,39
+CL0610,Consultorio,Protesis removible,97,48,10.3,358000,0.0,2.6,79
+CL0611,Odontologo independiente,Corona,8,7,2.1,237000,1.7,11.3,29
+CL0612,Clinica grande,Protesis removible,17,64,28.6,513000,0.1,0.6,24
+CL0613,Odontologo independiente,Protesis removible,5,48,2.8,381000,0.1,4.0,39
+CL0614,Odontologo independiente,Protesis removible,83,20,3.9,361000,0.1,4.0,28
+CL0615,Odontologo independiente,Carilla,71,5,1.6,383000,0.3,3.3,21
+CL0616,Consultorio,Corona,96,52,4.5,235000,0.1,2.7,25
+CL0617,Consultorio,Corona,154,51,5.2,261000,9.6,8.7,35
+CL0618,Odontologo independiente,Corona,172,10,3.9,323000,0.3,4.1,73
+CL0619,Consultorio,Corona,45,15,11.6,359000,0.0,4.6,43
+CL0620,Clinica grande,Corona,25,47,13.0,296000,0.0,11.4,35
+CL0621,Odontologo independiente,Protesis removible,173,11,2.7,382000,0.0,13.3,33
+CL0622,Odontologo independiente,Carilla,114,51,2.1,350000,0.9,3.3,16
+CL0623,Odontologo independiente,Corona,12,9,1.9,252000,0.4,5.2,39
+CL0624,Consultorio,Corona,47,38,7.5,331000,0.4,3.3,49
+CL0625,Odontologo independiente,Corona,67,38,5.0,358000,0.4,4.9,47
+CL0626,Odontologo independiente,Carilla,164,8,2.8,343000,0.4,5.3,24
+CL0627,Consultorio,Carilla,156,54,4.8,366000,0.2,3.2,46
+CL0628,Odontologo independiente,Protesis removible,179,37,1.6,443000,0.2,11.2,23
+CL0629,Odontologo independiente,Protesis removible,176,68,2.7,361000,0.1,5.1,32
+CL0630,Consultorio,Corona,61,11,6.7,252000,0.1,5.9,43
+CL0631,Consultorio,Corona,70,79,9.9,254000,0.1,1.7,42
+CL0632,Consultorio,Corona,95,10,11.2,281000,0.1,3.0,105
+CL0633,Odontologo independiente,Corona sobre implante,166,37,2.4,617000,1.1,4.8,82
+CL0634,Consultorio,Protesis removible,160,36,7.8,299000,0.6,3.4,44
+CL0635,Odontologo independiente,Protesis removible,21,17,4.6,560000,7.0,5.4,105
+CL0636,Odontologo independiente,Protesis removible,163,36,3.9,406000,0.2,1.5,25
+CL0637,Odontologo independiente,Protesis removible,105,18,1.5,548000,1.0,4.3,29
+CL0638,Odontologo independiente,Protesis removible,153,31,1.2,522000,2.5,9.2,14
+CL0639,Consultorio,Corona,61,60,3.2,239000,0.7,1.6,22
+CL0640,Consultorio,Protesis removible,100,46,2.7,554000,1.8,5.0,32
+CL0641,Odontologo independiente,Corona sobre implante,72,78,2.6,578000,0.6,1.3,40
+CL0642,Consultorio,Protesis removible,61,38,3.4,394000,15.2,4.2,37
+CL0643,Consultorio,Carilla,63,37,8.1,344000,0.1,3.8,57
+CL0644,Clinica grande,Carilla,56,68,15.1,272000,0.1,2.2,33
+CL0645,Consultorio,Corona,175,41,9.2,205000,0.0,3.1,47
+CL0646,Consultorio,Corona,106,39,7.9,264000,0.0,16.0,15
+CL0647,Odontologo independiente,Protesis removible,146,37,2.3,390000,0.1,2.3,45
+CL0648,Consultorio,Corona sobre implante,163,26,7.3,934000,0.0,3.0,22
+CL0649,Odontologo independiente,Corona,48,32,1.2,238000,1.3,4.6,74
+CL0650,Clinica grande,Corona sobre implante,151,83,7.2,1082000,0.1,3.0,109
+CL0651,Odontologo independiente,Protesis removible,139,12,1.7,305000,0.5,4.2,44
+CL0652,Odontologo independiente,Protesis removible,69,32,2.6,465000,0.1,3.3,31
+CL0653,Consultorio,Corona,63,59,3.3,318000,0.4,2.4,40
+CL0654,Consultorio,Carilla,166,54,7.9,370000,0.0,14.2,23
+CL0655,Odontologo independiente,Protesis removible,15,6,2.8,380000,4.5,4.7,40
+CL0656,Consultorio,Corona,135,54,6.2,256000,0.1,3.1,43
+CL0657,Odontologo independiente,Protesis removible,127,8,2.4,408000,0.1,5.6,43
+CL0658,Odontologo independiente,Corona,128,29,2.1,339000,1.9,5.8,33
+CL0659,Odontologo independiente,Protesis removible,82,22,2.3,322000,0.0,3.0,28
+CL0660,Odontologo independiente,Corona,99,0,1.2,270000,1.3,5.5,20
+CL0661,Consultorio,Corona,169,85,9.4,358000,0.1,3.2,121
+CL0662,Odontologo independiente,Protesis removible,166,13,2.5,409000,2.0,4.2,40
+CL0663,Consultorio,Protesis removible,62,54,7.5,462000,0.1,0.9,24
+CL0664,Consultorio,Corona,101,43,4.2,254000,0.2,2.7,37
+CL0665,Odontologo independiente,Carilla,160,29,1.1,321000,1.5,16.5,29
+CL0666,Clinica grande,Corona,24,96,37.4,359000,0.0,1.0,30
+CL0667,Consultorio,Corona,168,25,3.0,270000,0.6,3.0,32
+CL0668,Odontologo independiente,Protesis removible,53,8,1.8,402000,0.1,3.8,35
+CL0669,Odontologo independiente,Corona,143,21,2.0,356000,13.7,11.1,118
+CL0670,Consultorio,Carilla,144,16,6.6,267000,0.1,3.6,40
+CL0671,Odontologo independiente,Corona sobre implante,11,54,2.5,828000,0.4,2.2,19
+CL0672,Odontologo independiente,Carilla,129,33,2.1,302000,0.5,4.9,44
+CL0673,Odontologo independiente,Corona,58,4,1.1,180000,0.9,4.1,27
+CL0674,Consultorio,Corona,42,32,5.2,250000,0.7,3.2,23
+CL0675,Consultorio,Corona,140,54,5.6,242000,0.0,1.3,45
+CL0676,Clinica grande,Protesis removible,164,56,27.4,369000,0.0,1.2,35
+CL0677,Consultorio,Carilla,103,92,6.5,207000,0.3,0.7,37
+CL0678,Consultorio,Corona,102,68,9.8,252000,0.1,1.9,42
+CL0679,Clinica grande,Protesis removible,93,47,31.4,429000,0.0,15.0,45
+CL0680,Clinica grande,Corona,93,70,12.1,310000,0.0,1.9,40
+CL0681,Consultorio,Protesis removible,82,81,6.0,425000,0.1,1.5,25
+CL0682,Consultorio,Corona,109,20,7.1,215000,0.1,4.2,33
+CL0683,Odontologo independiente,Protesis removible,108,6,1.7,401000,8.7,13.1,91
+CL0684,Consultorio,Corona sobre implante,177,39,11.6,690000,0.0,4.4,34
+CL0685,Consultorio,Corona,97,15,4.6,253000,0.1,4.1,37
+CL0686,Odontologo independiente,Corona,176,48,1.2,306000,1.7,2.5,28
+CL0687,Odontologo independiente,Protesis removible,76,29,1.0,453000,0.1,15.5,29
+CL0688,Consultorio,Corona,35,54,4.8,256000,0.1,2.4,34
+CL0689,Consultorio,Carilla,162,28,4.8,266000,0.2,3.2,39
+CL0690,Odontologo independiente,Corona,79,35,1.8,182000,13.1,3.1,31
+CL0691,Clinica grande,Corona,11,45,8.0,288000,0.0,4.5,31
+CL0692,Consultorio,Protesis removible,143,35,5.9,405000,4.9,2.3,28
+CL0693,Odontologo independiente,Corona,163,16,3.6,253000,0.8,5.9,18
+CL0694,Consultorio,Corona,70,56,4.4,314000,0.0,15.7,35
+CL0695,Odontologo independiente,Protesis removible,107,10,2.8,476000,0.7,2.2,36
+CL0696,Odontologo independiente,Carilla,22,31,1.6,363000,0.4,18.3,86
+CL0697,Odontologo independiente,Carilla,25,4,1.5,342000,0.1,5.2,25
+CL0698,Consultorio,Protesis removible,2,53,10.9,301000,0.1,1.9,26
+CL0699,Odontologo independiente,Corona,169,37,3.0,275000,0.2,3.2,41
+CL0700,Odontologo independiente,Protesis removible,106,22,3.2,564000,8.5,14.3,28
+CL0701,Consultorio,Corona sobre implante,68,41,17.0,844000,0.0,3.4,30
+CL0702,Clinica grande,Corona sobre implante,159,68,21.9,801000,0.1,2.6,32
+CL0703,Odontologo independiente,Corona,114,7,2.2,220000,0.1,5.6,84
+CL0704,Consultorio,Protesis removible,95,31,6.4,533000,0.1,3.8,22
+CL0705,Consultorio,Protesis removible,131,53,11.4,424000,0.0,1.4,32
+CL0706,Consultorio,Corona,38,51,9.2,288000,0.2,3.0,31
+CL0707,Consultorio,Carilla,77,44,4.0,270000,13.9,2.6,70
+CL0708,Consultorio,Corona,101,69,4.1,273000,0.1,2.1,25
+CL0709,Consultorio,Corona,115,57,7.1,251000,0.1,7.8,37
+CL0710,Consultorio,Corona sobre implante,98,56,7.5,670000,5.4,3.4,55
+CL0711,Clinica grande,Corona sobre implante,53,50,27.2,668000,0.0,15.8,17
+CL0712,Odontologo independiente,Corona sobre implante,72,6,2.8,695000,0.0,4.1,101
+CL0713,Clinica grande,Corona sobre implante,79,92,20.2,926000,0.0,13.9,45
+CL0714,Odontologo independiente,Protesis removible,130,7,2.9,372000,0.9,4.1,36
+CL0715,Clinica grande,Corona,130,74,29.4,367000,0.0,0.0,23
+CL0716,Consultorio,Carilla,124,56,4.0,311000,0.1,2.3,24
+CL0717,Odontologo independiente,Protesis removible,45,54,1.2,450000,1.4,3.2,100
+CL0718,Odontologo independiente,Corona sobre implante,5,5,2.4,948000,0.4,5.0,38
+CL0719,Odontologo independiente,Corona,6,39,1.8,299000,0.7,4.8,34
+CL0720,Clinica grande,Corona,81,78,11.5,333000,0.1,3.5,41
+CL0721,Odontologo independiente,Protesis removible,121,22,3.1,363000,0.6,4.9,34
+CL0722,Consultorio,Carilla,141,55,7.3,359000,0.1,2.2,87
+CL0723,Odontologo independiente,Corona,41,16,4.1,303000,0.1,3.2,44
+CL0724,Odontologo independiente,Corona,8,17,2.1,250000,0.2,3.8,30
+CL0725,Odontologo independiente,Protesis removible,23,17,2.3,636000,0.3,12.2,41
+CL0726,Odontologo independiente,Corona sobre implante,79,30,1.1,728000,1.2,2.2,23
+CL0727,Odontologo independiente,Protesis removible,125,42,4.2,503000,0.2,3.5,36
+CL0728,Odontologo independiente,Carilla,71,25,2.9,367000,0.3,4.0,24
+CL0729,Consultorio,Protesis removible,6,60,9.0,450000,0.0,1.6,110
+CL0730,Consultorio,Corona,28,50,5.4,240000,0.1,1.7,23
+CL0731,Consultorio,Corona,74,3,5.8,248000,0.2,4.0,29
+CL0732,Consultorio,Corona sobre implante,161,28,6.9,762000,0.1,5.0,37
+CL0733,Consultorio,Corona,87,56,4.3,217000,0.0,1.7,29
+CL0734,Clinica grande,Corona sobre implante,120,89,15.5,671000,0.1,0.7,43
+CL0735,Clinica grande,Corona sobre implante,143,98,53.9,658000,0.0,1.2,41
+CL0736,Consultorio,Carilla,172,47,7.0,253000,0.1,1.9,34
+CL0737,Consultorio,Carilla,58,80,4.4,329000,0.1,1.5,32
+CL0738,Odontologo independiente,Protesis removible,14,20,1.2,354000,3.1,3.7,36
+CL0739,Odontologo independiente,Corona,172,42,1.3,318000,1.9,2.1,32
+CL0740,Consultorio,Corona sobre implante,149,48,6.9,909000,0.2,3.0,29
+CL0741,Odontologo independiente,Protesis removible,156,11,1.4,273000,0.1,4.6,108
+CL0742,Consultorio,Corona,14,73,3.7,392000,0.1,11.3,22
+CL0743,Odontologo independiente,Corona,90,16,2.0,307000,0.3,3.4,31
+CL0744,Clinica grande,Corona sobre implante,40,88,25.7,981000,0.0,0.6,40
+CL0745,Consultorio,Corona,144,56,10.6,318000,0.2,3.0,122
+CL0746,Consultorio,Corona,167,31,4.1,267000,0.1,4.0,109
+CL0747,Odontologo independiente,Protesis removible,151,15,1.6,366000,0.4,4.5,36
+CL0748,Clinica grande,Carilla,12,50,25.8,265000,0.1,3.3,26
+CL0749,Consultorio,Corona,55,61,4.8,241000,0.1,2.0,24
+CL0750,Odontologo independiente,Corona,44,20,3.2,353000,0.3,3.4,28
+CL0751,Odontologo independiente,Corona,69,44,1.8,262000,0.8,3.4,12
+CL0752,Consultorio,Corona,121,79,3.3,306000,0.0,1.9,25
+CL0753,Odontologo independiente,Corona,94,27,1.6,222000,1.0,4.2,40
+CL0754,Consultorio,Corona sobre implante,104,60,3.0,701000,0.5,4.9,49
+CL0755,Clinica grande,Carilla,26,95,17.2,370000,0.1,0.5,22
+CL0756,Clinica grande,Protesis removible,18,36,27.1,547000,0.0,3.3,45
+CL0757,Odontologo independiente,Corona,148,30,2.2,358000,0.6,3.2,34
+CL0758,Odontologo independiente,Corona,129,4,2.1,261000,0.6,5.9,34
+CL0759,Odontologo independiente,Corona,49,29,1.2,308000,0.7,3.7,23
+CL0760,Odontologo independiente,Protesis removible,167,17,1.5,301000,0.1,11.8,26
+CL0761,Odontologo independiente,Protesis removible,172,28,1.8,488000,0.4,4.0,70
+CL0762,Odontologo independiente,Carilla,130,33,2.4,305000,0.1,3.5,111
+CL0763,Consultorio,Corona sobre implante,23,30,18.5,813000,0.1,5.2,46
+CL0764,Consultorio,Protesis removible,23,41,4.4,255000,0.1,4.2,28
+CL0765,Odontologo independiente,Protesis removible,81,31,3.3,411000,0.1,3.0,33
+CL0766,Consultorio,Carilla,87,58,3.5,301000,0.1,3.1,39
+CL0767,Consultorio,Corona,41,28,3.7,257000,0.5,5.3,35
+CL0768,Odontologo independiente,Protesis removible,91,25,0.9,490000,0.6,9.8,40
+CL0769,Clinica grande,Corona,154,82,15.3,356000,0.0,14.7,25
+CL0770,Consultorio,Corona,113,33,9.5,243000,0.0,4.1,25
+CL0771,Odontologo independiente,Corona,72,4,2.2,270000,0.3,3.9,99
+CL0772,Odontologo independiente,Protesis removible,122,10,3.8,423000,0.1,3.5,31
+CL0773,Consultorio,Corona,51,59,4.7,282000,0.1,2.1,44
+CL0774,Consultorio,Carilla,169,42,9.6,329000,0.0,3.4,40
+CL0775,Consultorio,Protesis removible,65,37,4.6,316000,0.1,2.7,121
+CL0776,Consultorio,Carilla,105,31,8.8,305000,0.1,4.4,39
+CL0777,Odontologo independiente,Protesis removible,34,31,4.5,487000,0.4,4.2,25
+CL0778,Consultorio,Corona sobre implante,25,72,5.3,611000,0.6,1.7,28
+CL0779,Odontologo independiente,Corona,11,41,1.2,336000,0.3,3.6,30
+CL0780,Odontologo independiente,Protesis removible,120,53,5.0,407000,11.2,2.2,83
+CL0781,Consultorio,Corona sobre implante,124,38,4.0,717000,0.2,3.1,103
+CL0782,Odontologo independiente,Corona,114,15,1.7,253000,0.3,5.7,38
+CL0783,Odontologo independiente,Corona,77,49,1.9,294000,0.2,4.9,74
+CL0784,Consultorio,Corona,61,53,8.9,272000,0.1,2.5,43
+CL0785,Consultorio,Corona sobre implante,46,41,8.1,642000,0.2,4.3,73
+CL0786,Odontologo independiente,Protesis removible,81,18,2.9,388000,11.6,4.7,27
+CL0787,Odontologo independiente,Corona,3,23,1.9,318000,0.8,4.9,38
+CL0788,Odontologo independiente,Corona,116,6,2.0,320000,0.3,6.3,36
+CL0789,Clinica grande,Protesis removible,36,73,31.4,310000,0.1,2.2,45
+CL0790,Consultorio,Corona sobre implante,148,31,12.5,733000,0.1,4.6,46
+CL0791,Clinica grande,Protesis removible,11,92,12.4,459000,0.0,1.5,44
+CL0792,Consultorio,Corona,89,88,10.4,262000,0.0,1.1,96
+CL0793,Consultorio,Carilla,63,49,9.2,267000,0.1,10.8,28
+CL0794,Consultorio,Protesis removible,3,42,8.0,596000,0.4,3.3,25
+CL0795,Odontologo independiente,Protesis removible,18,29,1.6,299000,0.1,3.3,31
+CL0796,Odontologo independiente,Corona,151,1,2.3,221000,6.5,5.9,112
+CL0797,Consultorio,Corona,40,39,7.1,393000,0.1,2.8,40
+CL0798,Odontologo independiente,Protesis removible,46,9,1.6,390000,0.0,13.8,43
+CL0799,Consultorio,Protesis removible,68,73,10.2,393000,0.0,1.2,27
+CL0800,Consultorio,Corona,171,25,4.8,305000,0.1,4.0,39
+CL0801,Odontologo independiente,Protesis removible,52,18,4.4,384000,0.1,5.3,121
+CL0802,Odontologo independiente,Corona,154,57,1.1,276000,0.6,3.0,96
+CL0803,Odontologo independiente,Carilla,52,20,1.2,286000,0.1,4.1,27
+CL0804,Consultorio,Carilla,171,50,2.6,354000,0.8,10.7,34
+CL0805,Consultorio,Corona,84,36,8.3,278000,0.1,3.7,49
+CL0806,Consultorio,Corona,84,48,4.0,312000,0.0,3.1,27
+CL0807,Odontologo independiente,Protesis removible,56,52,1.5,489000,0.4,9.6,25
+CL0808,Odontologo independiente,Protesis removible,85,14,3.3,487000,0.5,5.6,35
+CL0809,Odontologo independiente,Corona,23,9,4.8,241000,0.2,4.8,31
+CL0810,Odontologo independiente,Corona,104,42,1.6,250000,0.1,3.7,38
+CL0811,Consultorio,Carilla,49,59,11.1,323000,0.0,3.9,85
+CL0812,Odontologo independiente,Protesis removible,95,21,2.8,397000,0.7,3.3,123
+CL0813,Odontologo independiente,Corona,17,57,2.2,340000,0.0,2.7,18
+CL0814,Consultorio,Protesis removible,143,63,3.5,418000,0.7,2.1,32
+CL0815,Clinica grande,Corona,6,35,11.6,322000,0.1,1.0,44
+CL0816,Clinica grande,Corona sobre implante,14,36,22.5,747000,0.0,3.3,41
+CL0817,Odontologo independiente,Corona,122,15,2.3,285000,1.7,5.2,33
+CL0818,Odontologo independiente,Protesis removible,169,10,1.6,437000,0.3,3.6,51
+CL0819,Consultorio,Corona,94,34,3.8,202000,0.5,2.0,28
+CL0820,Odontologo independiente,Corona,25,28,1.2,339000,0.5,2.9,26
+CL0821,Consultorio,Corona,120,57,7.0,251000,0.0,3.9,24
+CL0822,Odontologo independiente,Corona,12,63,3.0,243000,0.3,2.5,73
+CL0823,Consultorio,Corona sobre implante,16,53,8.3,625000,15.4,12.1,40
+CL0824,Odontologo independiente,Corona sobre implante,95,10,2.9,700000,1.0,5.6,115
+CL0825,Clinica grande,Protesis removible,116,87,17.1,349000,5.9,9.1,26
+CL0826,Consultorio,Corona,146,67,12.3,234000,0.0,2.6,36
+CL0827,Consultorio,Carilla,166,24,3.8,368000,0.1,2.9,39
+CL0828,Odontologo independiente,Corona,127,15,2.8,254000,0.3,4.9,24
+CL0829,Odontologo independiente,Protesis removible,123,29,1.8,414000,0.2,3.3,23
+CL0830,Consultorio,Corona,13,45,3.6,269000,0.7,3.7,31
+CL0831,Odontologo independiente,Corona,71,21,1.6,351000,12.3,13.6,32
+CL0832,Consultorio,Corona,43,32,7.6,286000,5.2,13.1,39
+CL0833,Consultorio,Corona,164,32,9.7,328000,0.2,4.5,30
+CL0834,Consultorio,Corona sobre implante,29,65,6.9,569000,0.1,16.6,79
+CL0835,Clinica grande,Corona,179,78,5.8,251000,0.1,9.1,22
+CL0836,Clinica grande,Carilla,39,63,30.5,316000,0.0,1.2,31
+CL0837,Odontologo independiente,Protesis removible,168,40,0.8,429000,0.3,4.0,37
+CL0838,Clinica grande,Corona sobre implante,146,78,52.2,680000,0.0,1.5,23
+CL0839,Consultorio,Corona,104,52,6.6,207000,0.1,3.8,16
+CL0840,Consultorio,Protesis removible,11,13,6.4,460000,0.0,10.7,26
+CL0841,Consultorio,Corona,92,47,9.4,270000,0.1,9.0,34
+CL0842,Consultorio,Protesis removible,167,83,5.3,542000,0.0,1.0,35
+CL0843,Clinica grande,Corona,71,48,19.5,371000,0.0,2.8,32
+CL0844,Consultorio,Corona,161,16,5.0,306000,0.2,3.1,45
+CL0845,Odontologo independiente,Protesis removible,50,38,2.3,435000,0.2,1.2,45
+CL0846,Odontologo independiente,Corona sobre implante,88,34,2.3,890000,0.1,1.7,33
+CL0847,Consultorio,Corona,30,22,6.6,251000,0.0,13.3,33
+CL0848,Consultorio,Corona sobre implante,64,58,1.3,695000,1.6,12.0,16
+CL0849,Odontologo independiente,Protesis removible,45,19,2.1,382000,0.2,9.6,32
+CL0850,Clinica grande,Protesis removible,36,70,10.7,427000,0.1,4.2,36
+CL0851,Consultorio,Corona sobre implante,152,66,20.4,805000,0.0,2.6,41
+CL0852,Odontologo independiente,Protesis removible,45,5,3.1,462000,8.1,5.0,22
+CL0853,Consultorio,Corona,148,77,9.1,311000,0.0,0.3,47
+CL0854,Consultorio,Protesis removible,153,44,7.4,282000,0.3,3.4,119
+CL0855,Consultorio,Carilla,11,58,8.1,310000,13.5,1.2,36
+CL0856,Consultorio,Carilla,149,35,4.0,381000,0.6,4.3,33
+CL0857,Odontologo independiente,Corona sobre implante,101,60,3.1,597000,0.2,2.9,30
+CL0858,Odontologo independiente,Corona,129,25,3.2,224000,0.3,4.3,41
+CL0859,Consultorio,Protesis removible,122,75,6.5,405000,0.1,1.8,39
+CL0860,Consultorio,Corona,65,19,8.5,217000,0.2,3.6,70
+CL0861,Consultorio,Corona,25,20,9.7,218000,5.7,4.0,106
+CL0862,Consultorio,Corona,81,31,6.0,227000,0.3,4.9,30
+CL0863,Clinica grande,Carilla,19,81,13.3,323000,0.2,1.6,44
+CL0864,Consultorio,Corona,176,57,8.7,270000,0.0,15.9,40
+CL0865,Odontologo independiente,Protesis removible,65,69,4.4,466000,0.4,2.1,38
+CL0866,Clinica grande,Corona sobre implante,25,96,12.8,573000,0.1,0.9,29
+CL0867,Odontologo independiente,Corona,145,20,3.7,267000,0.6,4.6,30
+CL0868,Clinica grande,Corona sobre implante,102,64,24.7,521000,0.0,3.7,37
+CL0869,Clinica grande,Corona,168,47,29.0,280000,0.0,2.1,31
+CL0870,Consultorio,Protesis removible,98,62,8.8,360000,0.1,3.4,31
+CL0871,Odontologo independiente,Corona,99,4,1.4,281000,1.1,5.7,22
+CL0872,Consultorio,Corona sobre implante,74,26,6.8,951000,0.4,3.2,21
+CL0873,Consultorio,Corona,14,57,9.5,355000,0.3,2.1,40
+CL0874,Clinica grande,Corona sobre implante,143,64,41.8,527000,0.0,3.1,36
+CL0875,Consultorio,Corona,67,52,8.9,238000,6.2,11.8,47
+CL0876,Consultorio,Corona,94,72,3.9,296000,0.5,8.7,27
+CL0877,Clinica grande,Corona,43,64,24.1,236000,0.0,12.2,107
+CL0878,Odontologo independiente,Protesis removible,171,15,2.0,472000,0.0,5.1,98
+CL0879,Consultorio,Corona sobre implante,159,24,6.2,793000,0.1,3.7,31
+CL0880,Consultorio,Corona sobre implante,180,69,9.9,827000,0.1,2.7,37
+CL0881,Consultorio,Corona,174,49,3.2,276000,0.1,2.5,34
+CL0882,Odontologo independiente,Protesis removible,171,14,2.8,545000,0.1,4.0,20
+CL0883,Odontologo independiente,Corona,140,23,2.7,340000,0.1,3.6,35
+CL0884,Odontologo independiente,Corona,24,6,1.4,275000,0.5,4.9,76
+CL0885,Consultorio,Carilla,169,15,10.0,330000,0.1,3.7,34
+CL0886,Consultorio,Protesis removible,84,29,4.6,345000,0.2,3.5,36
+CL0887,Consultorio,Corona sobre implante,111,53,6.1,691000,0.1,1.9,38
+CL0888,Consultorio,Protesis removible,33,34,1.9,424000,0.0,2.7,31
+CL0889,Odontologo independiente,Protesis removible,18,22,3.7,420000,0.4,4.2,37
+CL0890,Consultorio,Corona sobre implante,75,18,5.3,604000,0.2,3.5,33
+CL0891,Consultorio,Corona,129,21,5.2,256000,12.8,3.2,33
+CL0892,Consultorio,Corona,151,17,11.6,241000,0.0,3.5,97
+CL0893,Consultorio,Corona,157,20,2.5,264000,1.2,4.8,34
+CL0894,Odontologo independiente,Protesis removible,126,20,3.3,326000,0.1,3.8,24
+CL0895,Odontologo independiente,Corona,106,51,3.5,357000,0.0,1.3,26
+CL0896,Odontologo independiente,Corona,120,34,0.9,180000,1.1,3.3,29
+CL0897,Odontologo independiente,Protesis removible,25,48,2.5,460000,0.0,4.2,34
+CL0898,Odontologo independiente,Corona,81,42,1.9,341000,0.6,5.1,30
+CL0899,Odontologo independiente,Corona,52,22,1.4,394000,0.1,3.8,41
+CL0900,Odontologo independiente,Protesis removible,87,21,1.2,418000,0.2,4.2,46
+CL0901,Consultorio,Corona,56,24,8.3,243000,0.2,4.1,47
+CL0902,Odontologo independiente,Corona,130,18,3.7,295000,0.1,5.7,27
+CL0903,Consultorio,Protesis removible,91,26,3.6,506000,0.2,3.1,35
+CL0904,Consultorio,Corona sobre implante,91,63,3.9,744000,0.3,2.5,43
+CL0905,Clinica grande,Carilla,105,78,32.0,331000,0.0,13.8,39
+CL0906,Odontologo independiente,Corona,92,29,6.6,287000,0.0,2.8,80
+CL0907,Clinica grande,Corona,94,78,10.9,249000,0.2,0.1,15
+CL0908,Odontologo independiente,Protesis removible,94,31,1.1,548000,0.4,2.0,33
+CL0909,Consultorio,Corona sobre implante,82,41,3.7,772000,0.3,2.9,120
+CL0910,Odontologo independiente,Corona,150,46,1.4,356000,7.3,2.8,107
+CL0911,Clinica grande,Corona,117,87,37.5,312000,0.0,0.0,34
+CL0912,Consultorio,Corona,152,30,3.8,290000,0.2,13.3,29
+CL0913,Odontologo independiente,Corona,169,11,6.1,205000,8.1,4.9,90
+CL0914,Consultorio,Corona,72,32,7.4,280000,0.1,4.9,29
+CL0915,Consultorio,Carilla,111,23,9.6,238000,0.2,4.0,48
+CL0916,Consultorio,Corona,156,31,8.0,292000,0.0,2.8,30
+CL0917,Consultorio,Protesis removible,58,26,3.7,519000,0.7,4.2,17
+CL0918,Odontologo independiente,Corona,13,8,1.2,329000,4.6,4.4,23
+CL0919,Consultorio,Protesis removible,153,46,9.3,342000,0.0,2.7,16
+CL0920,Odontologo independiente,Corona,166,35,3.9,372000,0.2,4.1,15
+CL0921,Consultorio,Corona,142,68,7.4,180000,0.0,3.4,27
+CL0922,Consultorio,Corona,127,57,6.0,256000,0.1,2.6,28
+CL0923,Odontologo independiente,Corona,16,9,2.3,260000,0.7,3.4,30
+CL0924,Odontologo independiente,Corona,49,45,2.5,337000,0.2,3.5,31
+CL0925,Consultorio,Protesis removible,14,60,3.2,282000,0.4,17.1,33
+CL0926,Odontologo independiente,Corona,158,10,2.3,319000,0.2,6.0,42
+CL0927,Clinica grande,Corona sobre implante,84,95,22.2,775000,0.0,0.4,43
+CL0928,Consultorio,Carilla,156,65,2.7,383000,0.2,8.3,36
+CL0929,Consultorio,Protesis removible,54,38,1.7,471000,0.1,14.0,31
+CL0930,Consultorio,Corona,28,44,5.4,279000,0.1,4.9,44
+CL0931,Consultorio,Protesis removible,95,60,2.3,347000,0.2,1.0,30
+CL0932,Odontologo independiente,Corona,24,3,0.7,279000,4.4,3.8,48
+CL0933,Consultorio,Carilla,66,6,2.7,380000,0.0,4.4,41
+CL0934,Odontologo independiente,Carilla,28,3,2.4,252000,0.0,6.0,38
+CL0935,Consultorio,Corona sobre implante,52,58,5.9,691000,0.0,1.4,19
+CL0936,Odontologo independiente,Corona,38,23,2.3,282000,0.2,3.2,28
+CL0937,Consultorio,Protesis removible,61,72,13.2,595000,0.1,12.1,26
+CL0938,Odontologo independiente,Corona,117,17,2.8,180000,0.1,4.0,22
+CL0939,Consultorio,Corona,92,81,12.3,309000,7.6,0.0,28
+CL0940,Consultorio,Corona,163,60,6.6,288000,0.0,3.6,33
+CL0941,Consultorio,Corona,79,16,9.9,370000,0.1,6.0,34
+CL0942,Odontologo independiente,Corona,165,1,4.6,323000,14.4,6.6,37
+CL0943,Odontologo independiente,Corona sobre implante,5,10,5.6,818000,0.0,5.0,32
+CL0944,Clinica grande,Corona sobre implante,135,84,19.9,807000,0.1,3.2,27
+CL0945,Clinica grande,Corona sobre implante,105,77,12.6,835000,0.2,1.4,36
+CL0946,Consultorio,Corona,125,24,6.2,251000,0.1,3.4,28
+CL0947,Consultorio,Corona,129,34,11.3,318000,0.2,5.5,34
+CL0948,Consultorio,Corona sobre implante,121,49,12.5,825000,13.2,3.8,55
+CL0949,Odontologo independiente,Corona,125,17,2.3,210000,0.1,5.1,43
+CL0950,Consultorio,Corona sobre implante,78,17,7.1,738000,14.0,5.9,40
+CL0951,Consultorio,Corona sobre implante,57,63,12.6,1011000,0.0,2.5,28
+CL0952,Clinica grande,Carilla,64,80,23.9,342000,0.0,1.8,29
+CL0953,Consultorio,Corona sobre implante,169,73,8.2,893000,13.6,3.3,89
+CL0954,Consultorio,Protesis removible,74,53,9.2,490000,0.0,14.4,40
+CL0955,Consultorio,Corona,168,45,5.4,291000,0.1,3.8,26
+CL0956,Clinica grande,Corona,78,89,14.8,258000,0.0,1.9,33
+CL0957,Odontologo independiente,Protesis removible,136,16,7.0,396000,0.2,3.3,46
+CL0958,Odontologo independiente,Protesis removible,154,9,1.7,441000,14.0,5.1,32
+CL0959,Consultorio,Carilla,110,84,3.7,331000,0.2,1.5,28
+CL0960,Consultorio,Corona,170,65,5.3,312000,0.2,14.2,29
+CL0961,Odontologo independiente,Protesis removible,122,3,2.4,509000,0.3,5.1,38
+CL0962,Consultorio,Corona,158,50,6.9,302000,0.1,2.4,33
+CL0963,Clinica grande,Corona,70,58,18.9,344000,0.0,2.7,24
+CL0964,Clinica grande,Corona sobre implante,174,98,27.8,624000,0.0,1.7,43
+CL0965,Odontologo independiente,Corona sobre implante,163,8,4.9,1033000,10.6,4.5,35
+CL0966,Odontologo independiente,Carilla,152,23,1.9,321000,0.0,4.8,26
+CL0967,Consultorio,Corona,73,38,6.1,294000,0.0,1.3,24
+CL0968,Consultorio,Corona,111,17,11.5,319000,0.1,5.1,23
+CL0969,Odontologo independiente,Corona,88,29,1.4,340000,0.8,4.6,44
+CL0970,Consultorio,Protesis removible,12,28,3.4,447000,0.4,3.7,26
+CL0971,Consultorio,Protesis removible,10,67,4.3,434000,0.7,0.8,42
+CL0972,Odontologo independiente,Corona sobre implante,2,27,2.1,761000,0.2,10.5,94
+CL0973,Odontologo independiente,Protesis removible,97,31,3.3,545000,0.3,3.0,32
+CL0974,Clinica grande,Corona,148,72,10.2,270000,0.0,3.7,30
+CL0975,Consultorio,Corona,11,43,4.4,283000,0.1,6.0,36
+CL0976,Consultorio,Corona sobre implante,59,29,3.6,602000,0.7,4.1,33
+CL0977,Odontologo independiente,Protesis removible,37,10,1.0,410000,14.1,5.1,25
+CL0978,Consultorio,Corona,96,19,3.3,346000,0.5,4.5,26
+CL0979,Consultorio,Protesis removible,42,51,8.5,404000,0.0,2.1,39
+CL0980,Odontologo independiente,Corona,7,34,2.3,294000,1.8,3.9,97
+CL0981,Odontologo independiente,Corona sobre implante,165,41,2.4,761000,0.4,9.7,41
+CL0982,Consultorio,Corona,62,23,8.0,275000,0.1,2.4,28
+CL0983,Consultorio,Corona,4,37,7.4,292000,0.0,4.7,32
+CL0984,Clinica grande,Carilla,103,69,26.9,254000,0.1,3.3,37
+CL0985,Consultorio,Protesis removible,144,16,14.7,440000,0.2,3.2,43
+CL0986,Odontologo independiente,Corona sobre implante,61,39,3.0,1078000,0.7,2.9,40
+CL0987,Clinica grande,Corona,66,88,6.1,261000,0.4,1.1,27
+CL0988,Odontologo independiente,Corona,120,16,2.9,256000,0.1,2.9,40
+CL0989,Odontologo independiente,Carilla,141,29,3.5,207000,0.1,4.3,35
+CL0990,Consultorio,Protesis removible,108,80,7.6,255000,0.2,0.0,28
+CL0991,Consultorio,Protesis removible,79,44,4.5,373000,0.4,2.0,46
+CL0992,Odontologo independiente,Corona sobre implante,66,17,1.4,869000,0.3,4.9,37
+CL0993,Odontologo independiente,Corona,55,31,2.2,228000,0.6,8.4,43
+CL0994,Odontologo independiente,Corona,61,10,3.0,227000,0.1,5.6,33
+CL0995,Clinica grande,Corona,163,55,33.1,281000,0.0,1.9,30
+CL0996,Consultorio,Corona,83,66,2.5,359000,1.2,14.3,24
+CL0997,Odontologo independiente,Corona,23,9,2.6,247000,9.3,6.1,34
+CL0998,Consultorio,Corona,97,52,10.9,213000,0.2,2.4,20
+CL0999,Consultorio,Protesis removible,53,43,8.6,447000,5.6,13.5,34
+CL1000,Consultorio,Corona,140,27,19.9,251000,0.1,11.6,25
+CL1001,Odontologo independiente,Protesis removible,127,33,1.6,495000,1.0,4.7,36
+CL1002,Clinica grande,Corona sobre implante,136,77,12.4,893000,0.2,2.8,34
+CL1003,Odontologo independiente,Corona,137,35,3.3,260000,0.1,4.4,21
+CL1004,Consultorio,Protesis removible,27,33,12.2,528000,0.1,3.8,27
+CL1005,Odontologo independiente,Corona,83,25,1.4,377000,0.0,6.7,35
+CL1006,Consultorio,Corona sobre implante,61,26,6.1,842000,0.1,14.6,34
+CL1007,Odontologo independiente,Corona,126,15,2.5,189000,0.0,3.9,40
+CL1008,Consultorio,Carilla,28,59,7.3,243000,0.4,3.0,33
+CL1009,Odontologo independiente,Protesis removible,140,5,4.0,459000,0.5,5.5,30
+CL1010,Clinica grande,Protesis removible,10,75,66.3,555000,0.0,0.2,39
+CL1011,Odontologo independiente,Corona,56,17,1.7,267000,0.1,4.2,38
+CL1012,Consultorio,Corona,24,64,5.2,267000,0.2,0.0,44
+CL1013,Consultorio,Corona sobre implante,169,55,3.0,930000,0.0,3.1,35
+CL1014,Odontologo independiente,Protesis removible,48,9,3.2,512000,0.1,3.5,31
+CL1015,Consultorio,Protesis removible,151,62,3.5,473000,0.2,3.7,31
+CL1016,Consultorio,Protesis removible,15,55,6.4,465000,0.1,2.6,23
+CL1017,Consultorio,Corona sobre implante,21,84,7.5,788000,15.2,3.6,43
+CL1018,Clinica grande,Corona,101,64,41.1,200000,0.0,3.5,27
+CL1019,Odontologo independiente,Protesis removible,111,10,2.1,401000,0.3,4.1,53
+CL1020,Odontologo independiente,Corona,157,39,1.8,332000,1.1,4.7,30
+CL1021,Consultorio,Corona sobre implante,98,29,4.4,1049000,0.1,2.5,33
+CL1022,Odontologo independiente,Protesis removible,5,5,3.5,322000,0.2,3.7,43
+CL1023,Consultorio,Protesis removible,26,13,5.1,329000,0.6,4.2,49
+CL1024,Consultorio,Corona,153,71,6.2,324000,0.4,2.8,37
+CL1025,Consultorio,Protesis removible,28,65,8.6,430000,0.1,0.9,37
+CL1026,Consultorio,Corona,102,25,11.0,234000,0.0,4.5,35
+CL1027,Consultorio,Corona,139,56,10.3,379000,0.2,2.6,38
+CL1028,Clinica grande,Corona,169,89,11.4,230000,0.1,2.4,28
+CL1029,Odontologo independiente,Corona,29,23,1.3,302000,1.2,5.5,23
+CL1030,Odontologo independiente,Corona,172,11,2.6,312000,0.0,5.0,30
+CL1031,Consultorio,Protesis removible,119,74,7.9,523000,0.1,2.1,36
+CL1032,Consultorio,Corona,139,60,6.8,248000,0.3,2.3,26
+CL1033,Clinica grande,Corona sobre implante,32,94,40.5,770000,0.0,0.0,31
+CL1034,Odontologo independiente,Corona,128,0,4.5,289000,0.3,4.6,42
+CL1035,Odontologo independiente,Protesis removible,114,7,2.1,313000,0.2,5.3,30
+CL1036,Odontologo independiente,Corona,19,4,2.4,274000,0.6,4.3,65
+CL1037,Clinica grande,Corona sobre implante,152,85,36.6,757000,0.0,2.4,31
+CL1038,Clinica grande,Corona,116,61,33.0,341000,0.0,7.0,34
+CL1039,Odontologo independiente,Corona,102,56,1.4,318000,4.1,1.7,64
+CL1040,Consultorio,Protesis removible,98,56,3.3,400000,0.0,2.4,32
+CL1041,Odontologo independiente,Carilla,37,34,1.0,299000,4.1,3.5,26
+CL1042,Consultorio,Corona sobre implante,42,21,6.0,755000,0.2,4.5,26
+CL1043,Consultorio,Carilla,80,74,4.5,245000,0.3,2.3,20
+CL1044,Odontologo independiente,Corona,75,14,1.6,253000,1.0,5.4,106
+CL1045,Odontologo independiente,Corona,70,17,1.1,337000,1.5,5.8,24
+CL1046,Consultorio,Carilla,158,59,5.8,348000,6.9,4.6,31
+CL1047,Consultorio,Corona sobre implante,170,6,3.0,868000,12.3,11.0,45
+CL1048,Clinica grande,Corona sobre implante,114,68,12.7,652000,0.0,3.5,33
+CL1049,Odontologo independiente,Protesis removible,106,22,1.9,462000,0.3,6.0,41
+CL1050,Odontologo independiente,Carilla,123,35,2.7,321000,0.3,4.2,28
+CL1051,Clinica grande,Protesis removible,48,89,22.2,402000,0.0,1.9,33
+CL1052,Consultorio,Corona,38,24,8.2,294000,0.1,2.4,35
+CL1053,Odontologo independiente,Corona,100,16,2.1,275000,1.0,3.9,36
+CL1054,Consultorio,Carilla,49,64,4.9,283000,0.1,0.1,34
+CL1055,Consultorio,Protesis removible,172,35,5.1,576000,0.1,4.9,32
+CL1056,Consultorio,Corona,122,31,3.9,263000,0.8,4.0,29
+CL1057,Odontologo independiente,Carilla,176,3,2.2,346000,1.0,5.6,23
+CL1058,Odontologo independiente,Protesis removible,63,31,3.8,255000,0.2,4.5,33
+CL1059,Clinica grande,Corona sobre implante,152,91,30.6,1035000,0.0,11.6,99
+CL1060,Consultorio,Corona,60,47,8.3,264000,0.1,4.1,22
+CL1061,Odontologo independiente,Carilla,138,12,2.6,230000,0.0,3.5,104
+CL1062,Odontologo independiente,Corona sobre implante,35,17,2.4,644000,0.4,2.9,28
+CL1063,Odontologo independiente,Corona,72,15,2.3,266000,0.2,5.8,26
+CL1064,Odontologo independiente,Corona,122,17,1.3,288000,0.8,4.4,98
+CL1065,Odontologo independiente,Corona,11,20,1.3,271000,0.1,4.1,40
+CL1066,Odontologo independiente,Carilla,17,28,1.4,296000,1.3,10.5,27
+CL1067,Consultorio,Protesis removible,92,33,9.1,412000,0.0,4.5,38
+CL1068,Clinica grande,Corona sobre implante,14,72,16.3,1037000,0.0,2.0,30
+CL1069,Clinica grande,Corona,57,59,29.1,293000,0.0,2.3,27
+CL1070,Consultorio,Corona sobre implante,86,28,3.5,641000,0.3,3.1,35
+CL1071,Clinica grande,Corona,76,67,19.2,215000,0.0,3.3,78
+CL1072,Odontologo independiente,Corona sobre implante,74,12,1.4,894000,3.1,4.5,32
+CL1073,Consultorio,Corona sobre implante,93,59,8.1,729000,8.5,2.2,65
+CL1074,Odontologo independiente,Protesis removible,167,15,5.3,427000,0.5,6.0,43
+CL1075,Consultorio,Carilla,73,87,3.4,320000,0.1,2.4,37
+CL1076,Clinica grande,Corona sobre implante,170,85,24.9,807000,0.1,1.6,44
+CL1077,Consultorio,Corona,8,68,4.1,310000,0.5,8.6,29
+CL1078,Clinica grande,Corona sobre implante,99,90,30.1,971000,0.0,0.0,46
+CL1079,Consultorio,Corona sobre implante,17,66,12.8,958000,0.0,2.9,32
+CL1080,Clinica grande,Carilla,27,96,17.2,358000,0.0,12.9,36
+CL1081,Odontologo independiente,Protesis removible,77,40,3.5,424000,18.5,2.2,20
+CL1082,Consultorio,Corona,54,57,5.7,337000,0.4,1.5,42
+CL1083,Consultorio,Protesis removible,162,70,4.3,441000,0.2,2.5,30
+CL1084,Clinica grande,Corona,124,84,18.4,303000,0.0,0.0,39
+CL1085,Clinica grande,Corona sobre implante,78,90,37.3,686000,0.0,1.0,16
+CL1086,Consultorio,Corona,149,39,7.3,286000,0.1,3.9,31
+CL1087,Consultorio,Protesis removible,84,23,5.8,413000,0.1,5.3,31
+CL1088,Consultorio,Carilla,165,51,5.6,499000,0.4,3.2,108
+CL1089,Consultorio,Carilla,164,25,4.5,281000,0.1,3.9,42
+CL1090,Odontologo independiente,Protesis removible,123,19,3.0,369000,0.3,4.6,33
+CL1091,Odontologo independiente,Corona,112,17,5.9,180000,0.2,12.6,39
+CL1092,Consultorio,Protesis removible,179,55,5.6,447000,0.2,4.2,40
+CL1093,Consultorio,Corona,82,44,3.7,264000,8.0,13.5,40
+CL1094,Consultorio,Corona,57,69,7.2,312000,0.1,1.6,48
+CL1095,Consultorio,Protesis removible,29,48,7.7,422000,0.1,4.5,45
+CL1096,Consultorio,Corona,130,71,9.9,322000,5.4,2.9,87
+CL1097,Odontologo independiente,Protesis removible,61,10,1.3,273000,0.2,6.1,38
+CL1098,Clinica grande,Corona,29,91,25.3,294000,0.0,0.1,26
+CL1099,Odontologo independiente,Protesis removible,76,48,1.5,497000,0.2,3.6,69
+CL1100,Clinica grande,Corona sobre implante,165,92,41.6,718000,0.0,1.3,37
+CL1101,Consultorio,Corona,27,52,8.5,302000,0.0,1.9,44
+CL1102,Odontologo independiente,Corona,105,5,2.0,292000,0.7,11.2,37
+CL1103,Consultorio,Corona,140,84,3.4,311000,0.1,0.0,24
+CL1104,Odontologo independiente,Corona,175,27,5.3,254000,11.9,11.1,34
+CL1105,Odontologo independiente,Protesis removible,176,35,2.1,420000,0.3,2.3,28
+CL1106,Consultorio,Protesis removible,139,21,9.1,257000,4.7,3.8,24
+CL1107,Consultorio,Corona,140,89,2.5,233000,0.1,1.6,26
+CL1108,Clinica grande,Corona sobre implante,112,55,23.5,913000,0.0,1.3,40
+CL1109,Consultorio,Protesis removible,58,35,8.6,347000,0.1,3.5,33
+CL1110,Consultorio,Protesis removible,16,46,2.2,582000,0.8,3.1,27
+CL1111,Odontologo independiente,Corona sobre implante,37,26,2.5,810000,0.8,3.3,49
+CL1112,Odontologo independiente,Corona,156,5,4.0,258000,11.2,11.5,28
+CL1113,Consultorio,Corona,127,13,3.1,334000,0.0,4.7,39
+CL1114,Odontologo independiente,Protesis removible,63,57,2.1,370000,13.9,7.2,40
+CL1115,Odontologo independiente,Corona,117,44,1.9,258000,0.0,2.1,27
+CL1116,Consultorio,Protesis removible,23,54,4.5,451000,0.1,11.9,22
+CL1117,Consultorio,Corona sobre implante,11,55,4.5,666000,0.0,4.4,29
+CL1118,Consultorio,Corona,158,83,4.0,226000,0.1,2.6,36
+CL1119,Consultorio,Corona,173,84,4.2,286000,0.2,2.1,28
+CL1120,Odontologo independiente,Protesis removible,64,11,2.1,513000,1.2,3.7,37
+CL1121,Odontologo independiente,Carilla,43,11,2.3,294000,0.1,4.6,37
+CL1122,Clinica grande,Protesis removible,130,79,11.9,381000,0.0,0.8,48
+CL1123,Odontologo independiente,Corona,6,20,1.7,259000,0.3,4.6,30
+CL1124,Consultorio,Corona,144,73,6.3,337000,0.1,1.8,30
+CL1125,Consultorio,Corona,60,11,10.4,306000,0.1,3.5,122
+CL1126,Clinica grande,Corona,75,67,38.2,271000,0.0,3.4,31
+CL1127,Consultorio,Corona,146,75,5.9,333000,8.9,9.7,26
+CL1128,Odontologo independiente,Corona,144,12,2.3,320000,0.1,5.6,68
+CL1129,Odontologo independiente,Corona,140,26,1.2,217000,0.8,4.9,29
+CL1130,Consultorio,Corona,126,32,6.2,295000,0.1,3.6,33
+CL1131,Odontologo independiente,Protesis removible,130,34,0.9,422000,1.8,15.4,35
+CL1132,Odontologo independiente,Protesis removible,53,12,1.8,295000,0.1,13.5,32
+CL1133,Consultorio,Corona sobre implante,129,87,3.3,581000,0.1,1.8,33
+CL1134,Odontologo independiente,Carilla,84,27,1.6,458000,0.1,3.8,29
+CL1135,Odontologo independiente,Corona,67,30,2.3,300000,0.2,5.3,30
+CL1136,Clinica grande,Corona sobre implante,96,84,24.1,869000,0.1,1.8,34
+CL1137,Consultorio,Protesis removible,47,14,10.6,448000,0.0,4.7,41
+CL1138,Odontologo independiente,Corona,128,46,2.4,312000,0.6,2.6,35
+CL1139,Consultorio,Corona,81,53,4.7,274000,0.1,4.8,33
+CL1140,Consultorio,Corona,5,28,8.0,309000,0.0,4.3,26
+CL1141,Consultorio,Protesis removible,141,14,2.8,400000,0.3,4.6,25
+CL1142,Odontologo independiente,Corona,180,5,4.7,277000,0.2,14.0,28
+CL1143,Odontologo independiente,Corona,62,51,0.8,290000,0.8,2.6,26
+CL1144,Clinica grande,Corona sobre implante,4,49,29.6,884000,0.0,3.6,27
+CL1145,Odontologo independiente,Corona,50,9,2.8,240000,0.3,4.7,27
+CL1146,Odontologo independiente,Protesis removible,49,46,1.7,248000,0.3,2.0,26
+CL1147,Consultorio,Protesis removible,70,60,4.9,442000,0.2,2.6,35
+CL1148,Consultorio,Protesis removible,107,46,3.0,481000,0.5,2.4,31
+CL1149,Consultorio,Corona,166,63,6.3,254000,0.2,2.3,38
+CL1150,Odontologo independiente,Corona,66,9,2.8,232000,0.2,7.1,39
+CL1151,Consultorio,Protesis removible,142,52,4.7,441000,0.2,2.6,28
+CL1152,Odontologo independiente,Corona,72,23,2.7,203000,0.1,3.5,43
+CL1153,Odontologo independiente,Corona,5,22,3.0,307000,0.9,4.8,33
+CL1154,Odontologo independiente,Corona,36,22,1.5,369000,17.0,4.7,123
+CL1155,Odontologo independiente,Protesis removible,105,4,3.2,348000,0.4,5.3,37
+CL1156,Clinica grande,Corona,60,80,26.9,251000,0.0,2.1,34
+CL1157,Consultorio,Protesis removible,34,23,6.2,427000,0.1,4.2,34
+CL1158,Consultorio,Carilla,141,74,8.4,297000,0.1,0.7,42
+CL1159,Clinica grande,Protesis removible,26,87,25.2,324000,0.0,1.1,45
+CL1160,Consultorio,Corona,121,30,4.3,183000,0.1,3.9,31
+CL1161,Consultorio,Corona,68,55,4.5,272000,0.0,13.2,28
+CL1162,Consultorio,Protesis removible,63,23,6.6,531000,0.1,16.2,32
+CL1163,Clinica grande,Carilla,73,72,36.0,403000,0.0,2.2,21
+CL1164,Clinica grande,Corona sobre implante,116,66,23.7,856000,0.0,1.9,31
+CL1165,Consultorio,Protesis removible,132,62,5.0,261000,4.6,10.2,45
+CL1166,Odontologo independiente,Protesis removible,142,1,2.2,255000,0.4,4.2,74
+CL1167,Consultorio,Corona,105,7,3.5,301000,1.0,6.3,31
+CL1168,Odontologo independiente,Carilla,153,51,3.7,271000,0.4,13.6,32
+CL1169,Clinica grande,Protesis removible,113,67,41.3,389000,0.1,3.3,31
+CL1170,Consultorio,Corona sobre implante,78,44,12.6,823000,0.0,2.3,33
+CL1171,Consultorio,Corona,41,50,8.9,330000,0.0,2.9,44
+CL1172,Consultorio,Corona,104,57,4.4,248000,0.4,2.6,65
+CL1173,Odontologo independiente,Carilla,6,7,2.1,360000,0.4,6.9,37
+CL1174,Consultorio,Corona,32,28,5.0,194000,0.1,3.3,24
+CL1175,Odontologo independiente,Corona,42,3,2.6,289000,8.4,5.3,23
+CL1176,Consultorio,Corona,164,40,10.9,298000,0.2,2.6,29
+CL1177,Odontologo independiente,Protesis removible,129,21,0.7,412000,1.5,3.4,40
+CL1178,Consultorio,Corona sobre implante,118,60,7.1,843000,0.2,3.3,34
+CL1179,Clinica grande,Corona sobre implante,167,95,24.3,659000,0.0,2.3,37
+CL1180,Consultorio,Corona,70,35,6.7,293000,6.7,14.8,31
+CL1181,Clinica grande,Protesis removible,118,63,29.3,365000,0.1,2.0,39
+CL1182,Odontologo independiente,Corona sobre implante,89,27,1.5,636000,0.1,3.1,36
+CL1183,Consultorio,Protesis removible,161,72,9.0,307000,0.0,2.7,47
+CL1184,Consultorio,Carilla,59,47,6.9,348000,0.1,3.5,40
+CL1185,Consultorio,Protesis removible,64,60,5.4,405000,0.1,2.0,31
+CL1186,Consultorio,Corona sobre implante,18,49,6.0,752000,0.1,11.3,34
+CL1187,Odontologo independiente,Corona,73,9,1.8,211000,9.1,4.9,122
+CL1188,Odontologo independiente,Corona,46,10,2.3,294000,16.3,4.2,122
+CL1189,Consultorio,Corona,169,69,7.7,316000,0.2,10.0,31
+CL1190,Consultorio,Protesis removible,98,51,3.3,446000,0.1,3.3,38
+CL1191,Consultorio,Carilla,105,62,5.1,378000,0.0,2.5,41
+CL1192,Consultorio,Corona,155,58,4.8,274000,0.0,3.8,38
+CL1193,Odontologo independiente,Corona,134,26,2.1,249000,0.1,3.7,27
+CL1194,Clinica grande,Corona sobre implante,139,60,19.2,769000,0.1,1.4,26
+CL1195,Clinica grande,Corona sobre implante,84,89,9.9,928000,0.0,0.7,32
+CL1196,Odontologo independiente,Protesis removible,34,25,2.7,408000,8.2,10.1,55
+CL1197,Consultorio,Corona,137,56,10.1,180000,0.0,3.6,93
+CL1198,Consultorio,Corona,7,56,4.3,301000,0.3,8.8,37
+CL1199,Clinica grande,Corona,157,60,23.4,274000,0.0,4.3,48
+CL1200,Clinica grande,Corona,117,87,16.0,285000,0.0,12.3,27
+CL1201,Consultorio,Corona,10,28,6.5,339000,0.1,3.5,32
+CL1202,Consultorio,Protesis removible,64,33,5.4,402000,0.3,3.9,37
+CL1203,Odontologo independiente,Corona,24,25,3.6,248000,0.6,4.1,12
+CL1204,Odontologo independiente,Corona,174,14,1.7,224000,1.3,5.6,29
+CL1205,Consultorio,Corona,133,35,7.9,320000,0.2,3.2,27
+CL1206,Odontologo independiente,Corona,31,31,1.6,375000,0.2,2.9,45
+CL1207,Clinica grande,Corona sobre implante,100,90,17.1,788000,0.1,1.8,109
+CL1208,Odontologo independiente,Corona,155,35,2.3,183000,0.6,2.5,30
+CL1209,Consultorio,Corona,76,35,2.9,315000,0.2,4.9,23
+CL1210,Odontologo independiente,Corona,128,13,1.5,249000,0.1,6.5,46
+CL1211,Odontologo independiente,Corona,73,27,3.2,286000,0.0,4.9,23
+CL1212,Odontologo independiente,Protesis removible,173,21,1.6,281000,0.4,1.9,27
+CL1213,Consultorio,Protesis removible,114,28,3.2,422000,0.0,8.2,33
+CL1214,Clinica grande,Corona,110,73,11.4,212000,0.1,3.3,30
+CL1215,Clinica grande,Corona,59,76,22.5,379000,13.8,1.9,66
+CL1216,Consultorio,Corona,141,57,4.6,205000,0.1,4.4,34
+CL1217,Clinica grande,Corona,126,84,22.2,296000,0.0,1.7,36
+CL1218,Consultorio,Protesis removible,161,46,1.7,449000,9.6,2.9,39
+CL1219,Odontologo independiente,Corona,110,26,1.5,272000,2.1,4.6,44
+CL1220,Consultorio,Protesis removible,22,45,4.2,410000,0.6,4.1,31
+CL1221,Consultorio,Corona,145,34,8.3,293000,0.0,2.1,16
+CL1222,Odontologo independiente,Protesis removible,147,45,3.2,467000,0.5,2.8,112
+CL1223,Odontologo independiente,Protesis removible,94,11,2.9,532000,0.0,5.3,41
+CL1224,Consultorio,Carilla,85,69,2.4,374000,0.4,1.4,31
+CL1225,Consultorio,Corona,37,45,8.6,246000,0.1,2.1,32
+CL1226,Consultorio,Corona,93,62,10.1,279000,0.1,2.8,36
+CL1227,Odontologo independiente,Corona,124,2,1.5,323000,0.9,3.5,43
+CL1228,Clinica grande,Corona,48,71,24.4,229000,0.0,9.8,32
+CL1229,Odontologo independiente,Protesis removible,105,21,2.6,381000,0.3,3.5,33
+CL1230,Clinica grande,Corona,28,82,17.8,303000,0.2,0.3,34
+CL1231,Consultorio,Corona,87,29,6.2,364000,0.1,3.4,38
+CL1232,Odontologo independiente,Corona,59,39,1.5,307000,0.2,3.8,43
+CL1233,Consultorio,Corona,130,61,6.3,191000,0.1,3.6,49
+CL1234,Odontologo independiente,Carilla,52,12,2.0,248000,0.0,4.6,36
+CL1235,Consultorio,Protesis removible,159,19,6.6,474000,0.2,3.2,27
+CL1236,Consultorio,Corona,35,33,13.7,210000,0.2,1.0,37
+CL1237,Consultorio,Corona sobre implante,14,36,3.7,761000,0.1,3.9,13
+CL1238,Consultorio,Carilla,123,12,10.0,211000,0.0,4.0,47
+CL1239,Consultorio,Corona,137,46,6.1,275000,0.2,2.8,25
+CL1240,Consultorio,Corona,92,50,5.9,201000,0.0,4.0,33
+CL1241,Odontologo independiente,Protesis removible,78,67,0.8,465000,0.2,2.3,27
+CL1242,Odontologo independiente,Corona sobre implante,140,50,3.3,670000,0.1,2.4,43
+CL1243,Odontologo independiente,Protesis removible,109,21,1.3,419000,1.0,4.4,46
+CL1244,Consultorio,Corona sobre implante,36,47,3.9,1075000,0.3,3.8,39
+CL1245,Odontologo independiente,Protesis removible,153,12,1.9,532000,14.0,5.1,31
+CL1246,Odontologo independiente,Corona,172,61,1.9,246000,0.5,2.4,29
+CL1247,Consultorio,Carilla,108,64,4.0,353000,17.7,3.9,34
+CL1248,Clinica grande,Corona,110,66,41.5,334000,4.5,11.7,47
+CL1249,Consultorio,Protesis removible,25,49,8.0,424000,0.0,3.0,22
+CL1250,Odontologo independiente,Protesis removible,162,7,6.4,353000,0.0,5.0,29
+CL1251,Consultorio,Corona sobre implante,138,30,4.2,750000,0.8,4.1,36
+CL1252,Consultorio,Corona sobre implante,17,34,4.2,909000,0.0,1.3,36
+CL1253,Odontologo independiente,Corona,169,43,5.3,318000,9.1,15.8,27
+CL1254,Consultorio,Corona,141,60,3.4,279000,0.1,1.8,32
+CL1255,Clinica grande,Corona sobre implante,64,60,24.7,839000,0.0,2.5,35
+CL1256,Odontologo independiente,Protesis removible,78,20,1.9,521000,0.8,4.1,85
+CL1257,Consultorio,Corona,67,46,5.3,180000,11.6,4.5,88
+CL1258,Consultorio,Corona,51,44,3.2,314000,0.1,3.7,33
+CL1259,Consultorio,Corona sobre implante,72,34,4.4,799000,0.0,3.9,44
+CL1260,Consultorio,Carilla,95,51,14.4,201000,0.0,3.7,34
+CL1261,Odontologo independiente,Corona sobre implante,124,22,2.4,1068000,0.4,4.3,42
+CL1262,Odontologo independiente,Protesis removible,150,5,4.3,475000,0.0,4.8,30
+CL1263,Consultorio,Corona,174,65,4.5,300000,0.3,2.1,38
+CL1264,Consultorio,Carilla,28,55,6.4,324000,0.2,1.9,16
+CL1265,Clinica grande,Carilla,75,52,29.5,297000,0.1,2.5,61
+CL1266,Consultorio,Corona,59,63,8.0,320000,0.2,2.1,26
+CL1267,Odontologo independiente,Corona,18,26,2.0,274000,0.2,3.8,43
+CL1268,Consultorio,Carilla,34,49,6.2,237000,0.1,3.1,122
+CL1269,Odontologo independiente,Corona,157,62,3.6,329000,0.1,2.3,36
+CL1270,Consultorio,Corona,79,75,7.0,308000,0.1,2.5,22
+CL1271,Consultorio,Carilla,74,42,2.7,227000,0.1,2.4,36
+CL1272,Clinica grande,Corona,180,74,16.8,317000,0.0,8.8,34
+CL1273,Clinica grande,Protesis removible,138,44,13.4,409000,0.2,4.5,25
+CL1274,Consultorio,Carilla,62,53,2.8,216000,10.5,2.0,36
+CL1275,Odontologo independiente,Corona,21,23,3.2,262000,0.1,5.0,43
+CL1276,Odontologo independiente,Protesis removible,14,51,3.6,453000,0.4,3.7,31
+CL1277,Consultorio,Corona,95,28,4.3,306000,0.4,3.3,41
+CL1278,Consultorio,Corona sobre implante,15,38,5.2,1086000,0.1,1.5,36
+CL1279,Clinica grande,Protesis removible,16,29,53.8,420000,0.0,5.8,35
+CL1280,Consultorio,Corona,38,56,5.6,219000,0.2,2.9,29
+CL1281,Odontologo independiente,Corona,52,6,2.1,211000,0.4,5.2,41
+CL1282,Consultorio,Corona,108,57,6.9,253000,0.1,2.1,23
+CL1283,Odontologo independiente,Corona,61,2,4.0,288000,0.1,6.2,40
+CL1284,Consultorio,Protesis removible,44,81,7.6,285000,0.0,3.3,30
+CL1285,Odontologo independiente,Corona,88,52,3.6,307000,0.7,3.0,30
+CL1286,Consultorio,Carilla,179,38,3.9,275000,0.6,3.0,33
+CL1287,Odontologo independiente,Corona,124,26,3.3,268000,0.1,4.0,27
+CL1288,Consultorio,Corona,169,62,5.8,253000,0.3,1.8,46
+CL1289,Odontologo independiente,Protesis removible,70,2,1.5,341000,0.1,3.3,28
+CL1290,Consultorio,Protesis removible,36,51,7.7,339000,0.0,3.1,51
+CL1291,Consultorio,Carilla,165,20,18.9,323000,0.1,3.4,34
+CL1292,Consultorio,Corona sobre implante,150,30,6.7,683000,0.2,1.9,24
+CL1293,Consultorio,Protesis removible,171,26,9.6,452000,0.0,4.0,28
+CL1294,Consultorio,Protesis removible,147,37,5.4,426000,14.9,13.4,30
+CL1295,Consultorio,Corona,43,27,3.0,305000,6.3,9.5,65
+CL1296,Consultorio,Corona,98,36,7.7,200000,0.0,5.1,20
+CL1297,Consultorio,Corona,145,19,3.8,212000,0.0,2.3,30
+CL1298,Odontologo independiente,Corona,134,29,2.0,308000,0.6,2.9,50
+CL1299,Odontologo independiente,Corona sobre implante,31,39,5.4,689000,0.0,2.9,20
+CL1300,Odontologo independiente,Carilla,143,33,1.0,405000,1.0,3.2,32
+CL1301,Odontologo independiente,Corona,11,31,2.6,253000,0.0,1.6,37
+CL1302,Odontologo independiente,Protesis removible,159,31,2.8,368000,0.6,3.3,97
+CL1303,Odontologo independiente,Corona,123,28,2.6,234000,0.1,4.2,39
+CL1304,Odontologo independiente,Corona sobre implante,131,41,1.7,854000,0.6,4.4,27
+CL1305,Odontologo independiente,Protesis removible,163,11,2.4,340000,0.4,4.2,36
+CL1306,Odontologo independiente,Protesis removible,180,37,1.4,291000,0.9,3.4,35
+CL1307,Consultorio,Corona,113,85,12.2,209000,0.6,17.5,34
+CL1308,Clinica grande,Carilla,90,77,23.9,394000,0.0,2.4,20
+CL1309,Odontologo independiente,Corona,116,42,4.0,373000,0.0,4.5,35
+CL1310,Consultorio,Corona,155,50,5.3,280000,0.1,3.8,48
+CL1311,Odontologo independiente,Protesis removible,2,1,3.3,322000,0.0,4.8,35
+CL1312,Odontologo independiente,Protesis removible,17,33,3.0,360000,0.6,15.1,23
+CL1313,Consultorio,Corona,12,19,3.6,290000,15.5,3.1,49
+CL1314,Consultorio,Protesis removible,150,82,12.4,467000,0.0,1.1,34
+CL1315,Odontologo independiente,Carilla,147,39,7.5,352000,0.2,1.3,101
+CL1316,Odontologo independiente,Protesis removible,5,12,3.6,420000,0.7,5.7,33
+CL1317,Consultorio,Protesis removible,66,76,3.3,429000,0.5,2.1,13
+CL1318,Odontologo independiente,Protesis removible,150,30,1.5,460000,0.2,4.6,35
+CL1319,Odontologo independiente,Carilla,19,42,0.8,342000,0.4,4.1,37
+CL1320,Odontologo independiente,Corona,41,5,1.5,204000,1.0,3.9,48
+CL1321,Consultorio,Corona,127,31,13.5,289000,0.1,4.9,43
+CL1322,Odontologo independiente,Corona,34,24,3.5,328000,0.1,4.1,41
+CL1323,Consultorio,Corona,115,13,3.9,333000,0.0,5.3,27
+CL1324,Odontologo independiente,Carilla,11,16,1.3,386000,4.3,4.1,87
+CL1325,Odontologo independiente,Protesis removible,137,31,1.7,433000,0.5,4.0,27
+CL1326,Consultorio,Corona,62,66,9.9,353000,0.1,2.2,28
+CL1327,Consultorio,Carilla,179,50,7.6,265000,0.3,3.7,39
+CL1328,Odontologo independiente,Protesis removible,151,7,4.4,343000,0.4,5.3,113
+CL1329,Consultorio,Corona,114,27,4.5,325000,0.2,5.4,33
+CL1330,Consultorio,Corona sobre implante,4,34,6.4,853000,0.1,3.6,64
+CL1331,Odontologo independiente,Corona,10,29,1.6,292000,0.4,4.7,36
+CL1332,Odontologo independiente,Protesis removible,129,16,2.0,454000,6.6,6.0,41
+CL1333,Odontologo independiente,Corona,111,15,1.9,287000,5.9,4.5,84
+CL1334,Consultorio,Protesis removible,21,57,5.3,487000,0.1,0.9,32
+CL1335,Consultorio,Protesis removible,60,29,7.9,354000,0.0,3.9,37
+CL1336,Consultorio,Corona sobre implante,56,46,4.9,739000,0.1,3.5,36
+CL1337,Consultorio,Corona sobre implante,5,80,5.7,635000,0.0,2.1,40
+CL1338,Consultorio,Corona,11,24,4.1,344000,0.2,5.0,34
+CL1339,Clinica grande,Corona sobre implante,87,69,38.3,780000,0.0,10.8,43
+CL1340,Consultorio,Carilla,167,54,13.2,350000,0.2,3.2,46
+CL1341,Consultorio,Protesis removible,11,46,14.7,441000,0.0,2.7,29
+CL1342,Clinica grande,Carilla,28,67,32.2,339000,0.0,1.3,35
+CL1343,Consultorio,Corona sobre implante,48,58,6.0,786000,0.0,2.0,33
+CL1344,Consultorio,Corona sobre implante,68,39,4.0,766000,0.0,2.3,103
+CL1345,Odontologo independiente,Protesis removible,143,0,1.4,405000,0.7,17.9,28
+CL1346,Consultorio,Corona,16,30,5.9,299000,6.4,3.5,31
+CL1347,Consultorio,Protesis removible,3,74,3.5,570000,0.1,0.5,25
+CL1348,Clinica grande,Corona,174,58,31.5,328000,0.1,14.1,34
+CL1349,Consultorio,Protesis removible,62,46,6.8,382000,0.0,4.4,34
+CL1350,Consultorio,Protesis removible,147,28,3.3,366000,0.4,2.6,36
+CL1351,Clinica grande,Protesis removible,51,38,20.3,384000,0.0,2.5,33
+CL1352,Consultorio,Corona,84,25,8.9,325000,0.0,4.6,30
+CL1353,Consultorio,Corona,106,86,10.3,285000,0.2,1.9,44
+CL1354,Consultorio,Corona,107,36,6.7,199000,0.1,4.1,29
+CL1355,Consultorio,Corona,70,50,8.1,320000,0.0,3.1,86
+CL1356,Odontologo independiente,Corona,113,39,2.6,199000,0.2,4.7,22
+CL1357,Consultorio,Corona,61,62,5.0,375000,0.0,4.6,34
+CL1358,Consultorio,Corona sobre implante,165,26,6.6,722000,0.1,3.8,23
+CL1359,Odontologo independiente,Corona,59,14,2.4,239000,0.1,7.0,31
+CL1360,Odontologo independiente,Corona sobre implante,6,16,1.7,557000,0.4,3.7,28
+CL1361,Odontologo independiente,Protesis removible,170,32,2.5,514000,0.2,2.5,28
+CL1362,Consultorio,Protesis removible,30,36,6.1,582000,10.5,3.4,45
+CL1363,Clinica grande,Corona,47,54,26.8,272000,0.0,3.5,35
+CL1364,Odontologo independiente,Corona,137,12,2.3,281000,12.9,5.8,84
+CL1365,Consultorio,Corona,17,78,6.1,299000,0.4,1.8,28
+CL1366,Odontologo independiente,Carilla,27,7,1.0,257000,18.7,5.3,120
+CL1367,Consultorio,Carilla,48,24,17.7,338000,4.5,6.8,31
+CL1368,Clinica grande,Protesis removible,54,63,31.2,569000,0.0,2.6,18
+CL1369,Odontologo independiente,Protesis removible,108,9,2.7,432000,0.1,4.9,29
+CL1370,Consultorio,Corona,5,37,13.6,309000,0.1,3.1,25
+CL1371,Odontologo independiente,Protesis removible,62,9,3.5,357000,0.1,11.6,47
+CL1372,Odontologo independiente,Protesis removible,35,10,2.8,282000,0.1,6.5,30
+CL1373,Consultorio,Corona sobre implante,110,32,8.3,591000,0.5,4.3,43
+CL1374,Consultorio,Corona,152,61,13.0,312000,0.1,2.3,43
+CL1375,Consultorio,Corona,137,25,6.9,384000,0.0,2.4,31
+CL1376,Odontologo independiente,Corona,72,29,1.2,298000,1.0,2.2,78
+CL1377,Consultorio,Corona,66,50,3.1,228000,14.7,2.8,58
+CL1378,Odontologo independiente,Protesis removible,94,41,4.2,376000,0.3,1.3,35
+CL1379,Consultorio,Corona,174,25,5.7,296000,0.2,5.8,43
+CL1380,Clinica grande,Corona,140,87,28.8,292000,0.1,2.6,33
+CL1381,Consultorio,Corona sobre implante,111,65,5.9,735000,16.1,4.1,28
+CL1382,Odontologo independiente,Corona,31,12,2.8,299000,0.0,5.8,97
+CL1383,Odontologo independiente,Protesis removible,51,45,1.6,449000,6.0,17.8,18
+CL1384,Consultorio,Corona,6,16,7.6,223000,0.1,4.0,43
+CL1385,Consultorio,Carilla,22,51,2.2,354000,0.2,1.4,46
+CL1386,Odontologo independiente,Protesis removible,121,31,2.0,386000,0.1,4.1,33
+CL1387,Consultorio,Carilla,153,21,3.4,322000,0.5,2.5,20
+CL1388,Odontologo independiente,Protesis removible,7,22,2.3,396000,0.2,5.1,31
+CL1389,Odontologo independiente,Corona,42,18,2.4,312000,0.3,4.7,42
+CL1390,Consultorio,Protesis removible,142,15,5.7,324000,17.9,4.3,47
+CL1391,Clinica grande,Protesis removible,22,69,24.1,368000,0.0,3.2,41
+CL1392,Odontologo independiente,Protesis removible,115,36,1.0,358000,13.8,2.8,37
+CL1393,Clinica grande,Carilla,99,90,13.9,309000,16.9,0.9,29
+CL1394,Consultorio,Corona,89,58,5.6,217000,0.0,2.4,28
+CL1395,Odontologo independiente,Protesis removible,38,20,2.7,515000,0.8,2.4,38
+CL1396,Odontologo independiente,Corona,132,13,2.5,320000,15.2,18.2,45
+CL1397,Consultorio,Protesis removible,51,50,2.8,468000,0.7,13.4,28
+CL1398,Odontologo independiente,Corona,87,3,4.0,287000,0.2,3.0,31
+CL1399,Consultorio,Corona,4,8,5.8,401000,0.3,3.5,39
+CL1400,Odontologo independiente,Corona,178,7,4.6,308000,0.3,5.2,31
+CL1401,Odontologo independiente,Corona,59,8,3.0,239000,0.2,4.9,46
+CL1402,Odontologo independiente,Protesis removible,163,14,3.8,382000,0.0,4.7,41
+CL1403,Odontologo independiente,Corona,152,6,2.8,189000,0.3,6.3,22
+CL1404,Clinica grande,Corona,100,77,18.1,263000,0.0,1.9,37
+CL1405,Consultorio,Protesis removible,85,27,5.4,482000,0.1,3.9,43
+CL1406,Clinica grande,Corona sobre implante,15,84,33.0,968000,0.1,13.4,43
+CL1407,Consultorio,Corona,105,22,5.2,206000,16.1,4.0,40
+CL1408,Consultorio,Protesis removible,95,67,2.6,526000,0.1,2.1,24
+CL1409,Consultorio,Protesis removible,113,51,6.1,357000,0.1,4.4,17
+CL1410,Consultorio,Carilla,14,24,6.8,303000,0.2,3.2,41
+CL1411,Consultorio,Corona,27,71,7.4,258000,0.1,1.9,48
+CL1412,Odontologo independiente,Corona sobre implante,50,8,3.0,845000,0.0,5.9,37
+CL1413,Clinica grande,Protesis removible,49,74,54.6,589000,7.9,15.5,77
+CL1414,Consultorio,Corona,6,45,3.1,351000,0.4,5.4,34
+CL1415,Consultorio,Corona,4,60,13.4,371000,0.1,2.5,23
+CL1416,Consultorio,Corona,46,55,8.4,279000,8.0,1.9,24
+CL1417,Consultorio,Corona sobre implante,46,14,6.0,923000,0.1,4.2,43
+CL1418,Consultorio,Corona,33,56,3.3,264000,1.0,3.5,14
+CL1419,Odontologo independiente,Protesis removible,88,28,2.3,292000,0.9,4.3,36
+CL1420,Clinica grande,Protesis removible,140,31,29.1,435000,0.0,3.2,45
+CL1421,Clinica grande,Corona sobre implante,7,71,21.8,808000,0.0,0.8,20
+CL1422,Consultorio,Protesis removible,129,59,4.9,184000,0.0,4.2,45
+CL1423,Odontologo independiente,Corona,89,31,1.7,287000,0.2,6.0,28
+CL1424,Odontologo independiente,Corona,12,16,1.5,299000,1.0,3.0,20
+CL1425,Consultorio,Corona,32,32,8.1,180000,0.1,4.3,134
+CL1426,Odontologo independiente,Protesis removible,90,54,2.9,403000,0.2,2.8,26
+CL1427,Odontologo independiente,Protesis removible,109,32,3.4,382000,0.0,3.5,35
+CL1428,Odontologo independiente,Corona,11,12,1.6,328000,0.4,4.1,33
+CL1429,Odontologo independiente,Protesis removible,65,10,4.0,245000,0.1,3.4,29
+CL1430,Odontologo independiente,Protesis removible,85,5,6.8,470000,15.5,4.9,82
+CL1431,Clinica grande,Corona,127,91,23.1,276000,15.2,1.8,35
+CL1432,Odontologo independiente,Protesis removible,16,5,3.7,488000,0.2,10.7,52
+CL1433,Odontologo independiente,Carilla,132,9,1.2,354000,7.4,5.5,91
+CL1434,Clinica grande,Corona,66,60,64.5,211000,0.0,4.0,28
+CL1435,Clinica grande,Corona,4,87,29.3,180000,0.0,1.9,26
+CL1436,Clinica grande,Carilla,77,85,38.5,180000,0.1,2.4,28
+CL1437,Consultorio,Protesis removible,161,82,6.9,447000,0.1,2.9,24
+CL1438,Clinica grande,Corona,40,67,10.8,180000,0.0,1.7,36
+CL1439,Consultorio,Corona sobre implante,155,28,7.5,866000,0.3,11.4,32
+CL1440,Consultorio,Carilla,60,28,6.0,386000,0.1,4.0,69
+CL1441,Clinica grande,Corona,118,86,33.5,275000,0.0,1.6,83
+CL1442,Clinica grande,Corona sobre implante,116,77,15.2,1035000,0.0,1.6,22
+CL1443,Clinica grande,Corona sobre implante,120,71,5.7,757000,12.7,1.5,84
+CL1444,Odontologo independiente,Protesis removible,37,5,2.1,636000,0.6,4.0,56
+CL1445,Odontologo independiente,Protesis removible,148,22,1.9,427000,8.9,2.6,24
+CL1446,Consultorio,Corona,57,50,8.4,190000,0.0,3.4,26
+CL1447,Odontologo independiente,Protesis removible,16,1,1.5,367000,1.0,5.5,28
+CL1448,Consultorio,Protesis removible,175,23,5.1,259000,0.9,5.7,32
+CL1449,Odontologo independiente,Protesis removible,69,37,1.9,360000,1.5,4.9,30
+CL1450,Odontologo independiente,Protesis removible,164,49,1.6,595000,1.0,3.1,30
+CL1451,Consultorio,Corona,172,28,7.7,194000,10.3,5.0,35
+CL1452,Odontologo independiente,Carilla,104,60,1.9,326000,0.3,3.8,35
+CL1453,Consultorio,Corona sobre implante,79,56,4.8,721000,13.4,3.3,78
+CL1454,Consultorio,Corona,124,33,4.4,320000,12.8,4.0,28
+CL1455,Clinica grande,Corona,53,83,19.2,242000,0.1,2.6,16
+CL1456,Odontologo independiente,Corona sobre implante,146,21,4.4,796000,0.2,4.4,18
+CL1457,Consultorio,Carilla,62,54,5.4,346000,0.1,0.9,32
+CL1458,Odontologo independiente,Protesis removible,13,15,1.6,347000,0.4,5.4,24
+CL1459,Consultorio,Protesis removible,107,42,6.3,453000,0.5,10.2,32
+CL1460,Clinica grande,Corona sobre implante,139,76,31.6,637000,0.1,2.1,42
+CL1461,Consultorio,Carilla,128,84,6.0,320000,0.1,0.7,110
+CL1462,Clinica grande,Corona sobre implante,10,63,26.6,740000,0.0,1.7,22
+CL1463,Odontologo independiente,Protesis removible,116,34,2.9,513000,0.2,3.8,28
+CL1464,Consultorio,Corona sobre implante,173,32,8.5,885000,0.1,2.6,95
+CL1465,Odontologo independiente,Protesis removible,33,41,2.4,419000,0.0,4.2,31
+CL1466,Clinica grande,Carilla,161,59,11.9,281000,0.4,2.0,16
+CL1467,Clinica grande,Corona sobre implante,81,80,21.0,783000,0.1,1.4,35
+CL1468,Clinica grande,Corona,169,78,16.5,307000,0.1,0.8,22
+CL1469,Odontologo independiente,Carilla,22,43,3.1,235000,0.2,4.3,32
+CL1470,Consultorio,Protesis removible,176,69,10.7,356000,0.1,3.8,31
+CL1471,Consultorio,Corona,122,20,5.1,279000,0.5,5.1,63
+CL1472,Consultorio,Corona,89,8,8.4,288000,0.1,5.7,49
+CL1473,Consultorio,Corona sobre implante,135,38,7.1,852000,0.3,3.3,26
+CL1474,Consultorio,Protesis removible,42,64,5.4,427000,0.1,2.3,36
+CL1475,Consultorio,Corona,104,56,11.3,270000,0.2,0.4,33
+CL1476,Consultorio,Protesis removible,150,50,4.9,381000,0.3,11.4,42
+CL1477,Odontologo independiente,Corona sobre implante,165,18,1.6,855000,0.1,4.4,24
+CL1478,Odontologo independiente,Protesis removible,23,27,1.5,338000,0.9,3.2,69
+CL1479,Odontologo independiente,Corona,67,30,3.5,285000,8.6,13.3,83
+CL1480,Clinica grande,Protesis removible,108,76,15.8,463000,0.1,1.6,15
+CL1481,Consultorio,Corona,29,42,4.3,229000,0.1,2.4,13
+CL1482,Clinica grande,Carilla,65,75,35.7,285000,0.0,14.7,37
+CL1483,Odontologo independiente,Protesis removible,146,49,2.6,614000,0.0,3.2,22
+CL1484,Consultorio,Corona sobre implante,80,43,5.6,986000,0.3,3.2,37
+CL1485,Consultorio,Corona sobre implante,177,40,4.1,894000,0.0,3.1,40
+CL1486,Consultorio,Protesis removible,163,52,6.7,538000,0.0,1.4,39
+CL1487,Clinica grande,Corona sobre implante,98,82,13.7,756000,0.0,3.7,53
+CL1488,Odontologo independiente,Corona,97,23,2.4,360000,0.4,1.5,29
+CL1489,Consultorio,Corona,9,31,6.4,269000,17.7,16.1,93
+CL1490,Consultorio,Corona sobre implante,10,59,5.8,875000,12.9,1.0,35
+CL1491,Odontologo independiente,Corona,121,29,2.4,264000,0.9,4.3,27
+CL1492,Consultorio,Corona,172,66,7.9,219000,0.0,3.4,28
+CL1493,Odontologo independiente,Corona,155,25,1.0,278000,1.3,3.4,30
+CL1494,Odontologo independiente,Carilla,143,15,1.4,366000,9.2,4.1,26
+CL1495,Clinica grande,Corona,162,83,30.4,259000,0.0,1.8,34
+CL1496,Consultorio,Protesis removible,8,19,5.6,462000,0.1,4.0,33
+CL1497,Clinica grande,Corona,132,72,32.2,180000,0.0,2.8,106
+CL1498,Consultorio,Corona sobre implante,96,55,12.8,703000,0.0,3.0,29
+CL1499,Consultorio,Corona sobre implante,20,9,12.0,753000,0.1,4.4,22
+CL1500,Odontologo independiente,Protesis removible,39,3,3.4,313000,0.4,3.9,94
+CL1501,Consultorio,Corona,33,37,6.3,342000,0.4,4.7,36
+CL1502,Consultorio,Protesis removible,114,16,10.2,472000,0.1,4.7,100
+CL1503,Consultorio,Corona,168,60,4.6,308000,0.1,3.2,37
+CL1504,Odontologo independiente,Protesis removible,61,32,2.4,353000,9.5,17.6,44
+CL1505,Odontologo independiente,Carilla,8,10,2.0,486000,1.1,4.4,100
+CL1506,Clinica grande,Protesis removible,165,74,17.9,390000,0.1,1.9,22
+CL1507,Odontologo independiente,Corona,118,16,1.6,277000,0.2,6.0,39
+CL1508,Clinica grande,Corona sobre implante,7,79,26.7,882000,0.0,1.7,39
+CL1509,Odontologo independiente,Corona,31,10,1.1,270000,1.4,4.7,32
+CL1510,Clinica grande,Carilla,106,99,9.3,364000,9.0,1.4,49
+CL1511,Clinica grande,Corona sobre implante,180,45,34.5,937000,0.0,2.7,25
+CL1512,Odontologo independiente,Corona sobre implante,173,38,2.6,740000,0.3,5.4,34
+CL1513,Odontologo independiente,Corona,149,41,3.2,198000,0.3,1.4,26
+CL1514,Consultorio,Corona sobre implante,125,37,5.7,718000,0.0,4.1,23
+CL1515,Consultorio,Protesis removible,39,46,7.4,438000,0.3,3.4,76
+CL1516,Consultorio,Protesis removible,13,56,4.8,493000,0.2,2.4,92
+CL1517,Consultorio,Protesis removible,159,58,4.8,403000,0.1,1.7,46
+CL1518,Consultorio,Corona,46,38,3.7,296000,17.0,4.5,28
+CL1519,Clinica grande,Protesis removible,170,85,49.1,503000,0.0,1.9,35
+CL1520,Consultorio,Corona,149,34,3.9,385000,0.1,3.4,38
+CL1521,Clinica grande,Corona,41,77,44.5,348000,14.7,2.0,32
+CL1522,Clinica grande,Protesis removible,97,76,12.8,427000,0.0,3.4,46
+CL1523,Odontologo independiente,Corona sobre implante,61,9,1.5,1066000,0.1,4.2,126
+CL1524,Odontologo independiente,Corona,152,7,3.8,283000,0.6,4.3,24
+CL1525,Odontologo independiente,Corona,131,34,2.9,223000,0.2,9.8,39
+CL1526,Odontologo independiente,Protesis removible,70,9,2.7,373000,0.2,4.1,26
+CL1527,Consultorio,Corona,165,28,4.0,345000,0.1,2.9,24
+CL1528,Odontologo independiente,Corona sobre implante,117,9,3.4,770000,0.3,5.0,33
+CL1529,Odontologo independiente,Corona,52,26,1.5,260000,1.7,3.1,25
+CL1530,Odontologo independiente,Corona,116,31,2.5,277000,0.5,3.6,31
+CL1531,Consultorio,Corona,81,50,4.4,284000,0.0,3.4,19
+CL1532,Odontologo independiente,Protesis removible,88,47,4.4,313000,0.5,3.0,48
+CL1533,Odontologo independiente,Corona,98,35,2.6,327000,0.1,11.5,36
+CL1534,Consultorio,Corona,96,66,11.0,275000,0.2,2.1,33
+CL1535,Consultorio,Carilla,172,66,5.6,274000,0.0,2.1,38
+CL1536,Consultorio,Corona,122,84,4.4,226000,0.3,3.1,46
+CL1537,Consultorio,Corona sobre implante,179,24,3.3,814000,0.0,7.1,105
+CL1538,Consultorio,Protesis removible,29,51,6.7,408000,0.1,1.7,36
+CL1539,Consultorio,Protesis removible,45,38,10.2,411000,0.1,4.3,47
+CL1540,Clinica grande,Corona sobre implante,35,98,28.0,1056000,0.0,1.1,10
+CL1541,Consultorio,Corona sobre implante,112,61,4.4,889000,0.1,2.9,120
+CL1542,Consultorio,Protesis removible,12,30,4.9,225000,0.2,2.5,31
+CL1543,Consultorio,Protesis removible,70,48,4.9,419000,0.3,3.7,31
+CL1544,Odontologo independiente,Corona,23,42,2.2,238000,0.1,3.0,56
+CL1545,Consultorio,Protesis removible,143,15,8.2,346000,0.2,5.2,37
+CL1546,Consultorio,Corona,58,24,6.4,257000,0.1,4.7,37
+CL1547,Odontologo independiente,Corona,106,3,3.0,290000,0.3,6.3,43
+CL1548,Odontologo independiente,Corona sobre implante,100,9,2.7,698000,0.6,5.5,38
+CL1549,Consultorio,Corona sobre implante,31,76,3.8,946000,0.7,3.0,30
+CL1550,Consultorio,Protesis removible,22,37,6.3,426000,0.0,2.7,28
+CL1551,Consultorio,Corona,34,16,3.8,368000,0.3,4.4,35
+CL1552,Consultorio,Corona,24,37,6.3,314000,0.0,2.4,21
+CL1553,Consultorio,Corona,5,25,7.3,193000,0.2,5.1,20
+CL1554,Odontologo independiente,Corona,113,17,1.6,287000,1.2,4.5,40
+CL1555,Consultorio,Corona,70,41,3.3,265000,7.6,11.0,27
+CL1556,Clinica grande,Corona sobre implante,87,81,24.2,687000,0.0,0.4,23
+CL1557,Consultorio,Corona,127,60,5.7,255000,0.0,1.5,37
+CL1558,Consultorio,Protesis removible,112,54,10.1,444000,0.2,11.3,24
+CL1559,Odontologo independiente,Corona sobre implante,70,10,1.6,690000,0.9,4.8,34
+CL1560,Clinica grande,Corona,132,95,45.8,180000,0.0,1.0,26
+CL1561,Clinica grande,Corona,115,68,29.6,217000,0.0,2.0,26
+CL1562,Consultorio,Protesis removible,8,49,3.1,404000,17.4,1.5,73
+CL1563,Clinica grande,Corona,98,90,16.3,292000,0.0,6.6,77
+CL1564,Odontologo independiente,Protesis removible,20,22,2.2,489000,7.7,16.2,78
+CL1565,Consultorio,Protesis removible,167,36,5.7,474000,0.4,5.2,36
+CL1566,Consultorio,Protesis removible,116,19,4.0,391000,11.8,3.1,43
+CL1567,Consultorio,Corona,149,62,2.7,295000,0.7,2.7,28
+CL1568,Clinica grande,Carilla,156,69,19.2,268000,0.1,15.2,30
+CL1569,Odontologo independiente,Carilla,73,24,2.0,292000,10.5,8.4,30
+CL1570,Clinica grande,Corona,133,59,28.5,337000,0.0,3.2,21
+CL1571,Odontologo independiente,Protesis removible,74,25,2.4,341000,0.1,3.1,47
+CL1572,Odontologo independiente,Corona,159,28,1.4,370000,0.8,5.9,28
+CL1573,Consultorio,Carilla,127,28,8.5,324000,0.2,4.3,59
+CL1574,Consultorio,Carilla,152,24,4.6,305000,0.8,4.1,96
+CL1575,Odontologo independiente,Carilla,155,69,3.4,242000,0.0,3.1,33
+CL1576,Consultorio,Protesis removible,82,30,4.9,439000,0.1,3.5,23
+CL1577,Consultorio,Protesis removible,64,70,4.7,400000,0.3,0.0,40
+CL1578,Clinica grande,Corona,137,59,22.0,283000,0.0,2.6,23
+CL1579,Consultorio,Carilla,66,52,8.5,340000,0.1,3.0,50
+CL1580,Consultorio,Corona sobre implante,145,35,6.8,824000,0.2,4.6,34
+CL1581,Odontologo independiente,Corona sobre implante,144,11,1.2,937000,1.1,4.8,30
+CL1582,Consultorio,Corona,116,67,9.3,233000,0.1,1.5,38
+CL1583,Odontologo independiente,Corona,149,23,1.6,302000,4.3,2.7,70
+CL1584,Odontologo independiente,Corona,76,5,1.2,227000,0.6,4.4,35
+CL1585,Odontologo independiente,Protesis removible,146,39,1.0,337000,0.0,2.6,27
+CL1586,Clinica grande,Protesis removible,87,62,39.5,432000,0.0,1.6,40
+CL1587,Consultorio,Protesis removible,8,61,11.9,454000,0.1,2.3,37
+CL1588,Consultorio,Carilla,26,6,4.7,404000,0.0,5.9,38
+CL1589,Consultorio,Corona,120,18,5.3,180000,15.1,5.6,28
+CL1590,Odontologo independiente,Protesis removible,90,43,2.1,304000,0.3,16.0,30
+CL1591,Consultorio,Corona,144,44,3.4,344000,6.7,14.7,14
+CL1592,Consultorio,Protesis removible,66,49,6.4,419000,0.3,5.0,35
+CL1593,Consultorio,Corona sobre implante,78,43,7.7,912000,0.1,2.9,27
+CL1594,Odontologo independiente,Protesis removible,12,24,1.8,376000,0.2,5.1,40
+CL1595,Odontologo independiente,Corona sobre implante,144,36,2.5,892000,0.4,3.6,34
+CL1596,Odontologo independiente,Carilla,80,12,1.8,396000,0.0,5.0,28
+CL1597,Odontologo independiente,Corona,96,10,3.5,180000,0.6,4.1,82
+CL1598,Clinica grande,Corona sobre implante,50,88,14.6,587000,0.1,0.6,42
+CL1599,Consultorio,Corona,158,28,4.9,251000,0.1,3.9,47
+CL1600,Consultorio,Corona,159,39,11.4,320000,0.1,2.0,28
+CL1601,Odontologo independiente,Protesis removible,148,19,2.4,453000,0.0,4.8,39
+CL1602,Clinica grande,Protesis removible,114,95,64.8,499000,0.0,1.5,64
+CL1603,Consultorio,Protesis removible,10,26,8.4,406000,7.6,12.3,31
+CL1604,Odontologo independiente,Carilla,24,17,3.7,307000,0.9,2.7,36
+CL1605,Clinica grande,Protesis removible,59,51,29.5,428000,0.0,4.4,49
+CL1606,Odontologo independiente,Corona,107,5,1.6,277000,0.0,5.2,64
+CL1607,Consultorio,Corona,11,56,9.1,248000,0.1,7.8,30
+CL1608,Odontologo independiente,Corona,133,28,1.4,254000,0.1,3.8,34
+CL1609,Clinica grande,Corona sobre implante,73,64,10.5,815000,0.0,3.5,21
+CL1610,Odontologo independiente,Corona,172,35,2.6,242000,0.2,3.5,114
+CL1611,Odontologo independiente,Carilla,174,10,3.4,395000,0.0,7.1,21
+CL1612,Odontologo independiente,Corona,51,36,3.8,318000,0.2,13.2,34
+CL1613,Consultorio,Protesis removible,100,53,7.2,339000,0.1,1.6,30
+CL1614,Odontologo independiente,Corona,57,43,2.1,234000,0.5,3.1,42
+CL1615,Odontologo independiente,Protesis removible,144,45,2.1,587000,0.4,3.1,39
+CL1616,Odontologo independiente,Protesis removible,99,7,2.8,309000,0.1,3.8,28
+CL1617,Consultorio,Protesis removible,158,70,9.4,450000,6.7,0.0,62
+CL1618,Odontologo independiente,Corona,47,11,2.2,309000,0.2,4.4,29
+CL1619,Odontologo independiente,Carilla,163,13,2.9,337000,0.3,4.2,31
+CL1620,Consultorio,Corona,127,11,10.1,350000,0.1,14.1,30
+CL1621,Consultorio,Corona,85,59,10.3,180000,0.4,13.7,34
+CL1622,Odontologo independiente,Protesis removible,42,12,3.7,340000,16.3,5.2,115
+CL1623,Clinica grande,Corona,22,54,32.1,231000,0.0,2.6,34
+CL1624,Consultorio,Corona sobre implante,167,59,13.1,923000,6.6,4.2,37
+CL1625,Odontologo independiente,Protesis removible,19,40,1.5,421000,0.7,2.7,119
+CL1626,Consultorio,Corona,36,31,12.8,227000,0.0,4.2,46
+CL1627,Clinica grande,Corona,62,42,22.8,228000,0.1,3.5,50
+CL1628,Consultorio,Corona,27,60,3.0,298000,0.4,2.5,23
+CL1629,Odontologo independiente,Protesis removible,47,9,2.3,416000,0.1,4.9,29
+CL1630,Odontologo independiente,Protesis removible,68,6,2.5,460000,0.0,5.4,38
+CL1631,Consultorio,Corona sobre implante,52,75,3.3,989000,0.2,1.1,36
+CL1632,Consultorio,Corona,84,30,6.1,237000,0.3,10.8,109
+CL1633,Consultorio,Corona,47,29,2.2,262000,0.1,4.9,22
+CL1634,Consultorio,Corona,77,51,12.9,299000,11.7,14.2,29
+CL1635,Consultorio,Protesis removible,142,17,5.3,398000,0.1,3.0,22
+CL1636,Consultorio,Corona,127,46,6.0,247000,0.1,4.1,28
+CL1637,Odontologo independiente,Corona sobre implante,112,38,3.4,634000,0.4,3.1,34
+CL1638,Consultorio,Corona,97,47,6.0,234000,0.2,3.3,20
+CL1639,Consultorio,Protesis removible,137,38,3.4,421000,0.0,2.6,107
+CL1640,Odontologo independiente,Corona sobre implante,128,27,0.9,622000,0.8,6.0,51
+CL1641,Consultorio,Corona sobre implante,37,18,8.1,450000,0.0,3.1,45
+CL1642,Consultorio,Protesis removible,96,59,8.6,637000,0.0,14.0,40
+CL1643,Consultorio,Corona,162,55,4.9,259000,0.0,2.2,31
+CL1644,Clinica grande,Corona,123,54,8.9,276000,0.1,3.5,25
+CL1645,Clinica grande,Carilla,133,52,25.5,385000,17.5,13.0,95
+CL1646,Odontologo independiente,Corona,121,27,2.2,248000,0.3,4.1,21
+CL1647,Consultorio,Corona sobre implante,49,37,7.9,673000,0.0,4.0,47
+CL1648,Consultorio,Protesis removible,114,44,4.2,477000,0.7,2.2,33
+CL1649,Consultorio,Corona sobre implante,23,33,2.3,691000,17.5,5.2,21
+CL1650,Odontologo independiente,Corona,146,10,1.7,336000,9.4,6.0,124
+CL1651,Clinica grande,Protesis removible,169,98,31.1,497000,0.0,1.5,65
+CL1652,Odontologo independiente,Corona,106,11,3.5,251000,0.5,4.8,41
+CL1653,Odontologo independiente,Corona,142,18,1.9,252000,0.4,4.2,115
+CL1654,Odontologo independiente,Corona,123,15,1.7,193000,0.3,3.4,23
+CL1655,Consultorio,Corona,45,26,2.7,215000,0.9,4.6,43
+CL1656,Consultorio,Protesis removible,74,76,10.2,492000,11.4,2.3,35
+CL1657,Clinica grande,Corona,160,94,17.9,234000,15.3,1.7,47
+CL1658,Odontologo independiente,Corona,59,39,1.6,312000,0.5,2.9,35
+CL1659,Consultorio,Corona,76,12,4.0,316000,0.2,4.5,44
+CL1660,Consultorio,Protesis removible,26,51,5.0,375000,0.0,2.0,16
+CL1661,Consultorio,Corona sobre implante,165,36,7.2,917000,0.0,15.6,15
+CL1662,Odontologo independiente,Corona,148,39,1.9,274000,0.4,3.3,87
+CL1663,Consultorio,Corona sobre implante,101,7,11.0,961000,0.0,5.7,39
+CL1664,Clinica grande,Corona sobre implante,128,81,29.4,682000,0.0,0.7,49
+CL1665,Consultorio,Corona sobre implante,156,77,7.1,733000,0.0,1.5,8
+CL1666,Consultorio,Corona,52,44,10.7,263000,18.0,4.3,49
+CL1667,Consultorio,Corona,148,66,3.5,274000,0.7,0.3,43
+CL1668,Consultorio,Carilla,155,80,6.4,277000,0.1,2.5,28
+CL1669,Consultorio,Corona sobre implante,28,48,8.6,840000,0.4,3.8,36
+CL1670,Consultorio,Corona,59,44,8.7,314000,0.2,2.9,51
+CL1671,Clinica grande,Corona sobre implante,41,74,18.2,901000,0.0,3.0,23
+CL1672,Consultorio,Corona sobre implante,109,40,3.5,859000,7.4,4.1,19
+CL1673,Odontologo independiente,Carilla,118,35,1.0,305000,0.1,2.6,35
+CL1674,Consultorio,Corona sobre implante,103,38,7.5,637000,0.0,17.8,76
+CL1675,Odontologo independiente,Protesis removible,49,42,2.1,467000,0.4,2.2,26
+CL1676,Consultorio,Corona sobre implante,143,68,5.5,725000,0.1,2.6,45
+CL1677,Consultorio,Corona,125,71,6.5,232000,0.1,0.5,15
+CL1678,Consultorio,Corona sobre implante,34,83,5.9,709000,0.1,1.5,30
+CL1679,Consultorio,Carilla,157,76,4.8,332000,0.1,2.1,40
+CL1680,Consultorio,Carilla,95,47,8.4,376000,0.0,4.0,29
+CL1681,Odontologo independiente,Corona sobre implante,19,16,1.2,841000,0.0,4.9,40
+CL1682,Consultorio,Protesis removible,154,57,3.6,433000,0.3,2.9,33
+CL1683,Odontologo independiente,Protesis removible,42,4,1.2,362000,0.4,4.7,34
+CL1684,Consultorio,Corona,119,39,5.1,313000,0.0,3.3,88
+CL1685,Consultorio,Corona sobre implante,102,45,7.9,701000,0.0,3.9,26
+CL1686,Consultorio,Carilla,11,58,4.3,368000,0.0,4.1,41
+CL1687,Odontologo independiente,Carilla,60,33,2.3,326000,1.8,12.0,31
+CL1688,Odontologo independiente,Corona,174,21,3.4,269000,0.0,3.6,33
+CL1689,Consultorio,Corona,43,54,13.3,279000,0.2,3.1,39
+CL1690,Consultorio,Protesis removible,69,70,8.8,275000,16.3,1.4,36
+CL1691,Consultorio,Protesis removible,109,25,4.8,601000,0.2,2.4,25
+CL1692,Consultorio,Protesis removible,103,55,3.1,443000,0.0,2.4,28
+CL1693,Consultorio,Carilla,100,14,2.0,359000,0.1,4.3,40
+CL1694,Consultorio,Corona sobre implante,31,65,4.6,609000,0.1,14.1,36
+CL1695,Odontologo independiente,Corona,31,42,2.3,309000,0.2,3.4,46
+CL1696,Consultorio,Corona,64,53,5.0,284000,0.5,3.8,40
+CL1697,Odontologo independiente,Protesis removible,2,15,5.3,427000,0.2,10.2,36
+CL1698,Consultorio,Carilla,132,17,3.4,448000,0.4,3.5,31
+CL1699,Clinica grande,Corona,149,25,16.8,396000,4.5,4.9,16
+CL1700,Odontologo independiente,Protesis removible,84,20,0.8,461000,0.0,3.4,41
+CL1701,Consultorio,Carilla,175,56,10.1,317000,0.1,4.0,33
+CL1702,Consultorio,Protesis removible,125,17,4.6,354000,0.0,4.3,44
+CL1703,Consultorio,Corona,114,44,2.7,345000,0.0,3.1,42
+CL1704,Clinica grande,Corona sobre implante,33,79,20.4,797000,0.1,3.0,39
+CL1705,Odontologo independiente,Protesis removible,115,22,4.2,372000,0.0,3.6,35
+CL1706,Consultorio,Protesis removible,31,44,14.5,500000,0.1,3.7,38
+CL1707,Consultorio,Protesis removible,69,50,5.4,346000,0.1,3.2,41
+CL1708,Consultorio,Corona sobre implante,10,20,7.9,824000,14.0,14.1,8
+CL1709,Consultorio,Carilla,108,56,5.0,332000,0.1,1.6,93
+CL1710,Odontologo independiente,Protesis removible,23,36,2.0,459000,0.5,13.0,36
+CL1711,Consultorio,Corona,116,47,4.7,362000,0.6,3.3,68
+CL1712,Consultorio,Corona,16,25,12.1,283000,0.0,3.5,44
+CL1713,Consultorio,Corona,60,36,4.4,335000,0.7,3.3,28
+CL1714,Clinica grande,Carilla,54,65,8.9,270000,0.2,1.5,35
+CL1715,Consultorio,Protesis removible,117,22,3.6,369000,9.0,10.8,30
+CL1716,Odontologo independiente,Corona,49,9,1.7,180000,0.4,4.7,37
+CL1717,Odontologo independiente,Corona,145,24,2.4,312000,0.5,4.0,32
+CL1718,Consultorio,Corona,53,70,4.6,239000,0.1,0.0,28
+CL1719,Consultorio,Carilla,134,9,6.5,378000,12.7,4.4,36
+CL1720,Clinica grande,Carilla,85,55,24.1,351000,0.0,2.4,14
+CL1721,Odontologo independiente,Corona,138,18,1.9,389000,0.3,4.6,29
+CL1722,Odontologo independiente,Protesis removible,91,15,3.0,410000,14.3,3.3,39
+CL1723,Odontologo independiente,Corona sobre implante,47,29,1.4,906000,0.0,3.2,89
+CL1724,Consultorio,Corona,6,38,3.8,305000,0.0,4.0,37
+CL1725,Clinica grande,Corona,130,95,33.4,273000,0.0,1.7,29
+CL1726,Consultorio,Corona sobre implante,163,52,6.2,971000,0.1,1.4,33
+CL1727,Consultorio,Protesis removible,117,12,1.6,432000,0.2,3.8,34
+CL1728,Clinica grande,Corona,6,79,17.9,249000,0.0,2.6,28
+CL1729,Consultorio,Corona,119,22,7.7,286000,0.1,5.3,21
+CL1730,Consultorio,Corona,165,28,11.6,187000,0.0,6.3,45
+CL1731,Clinica grande,Protesis removible,19,81,29.7,459000,0.1,13.5,42
+CL1732,Consultorio,Corona sobre implante,12,44,6.9,1056000,0.3,4.2,39
+CL1733,Consultorio,Corona,98,69,9.5,264000,0.0,1.7,35
+CL1734,Odontologo independiente,Protesis removible,151,18,3.5,443000,6.0,10.5,36
+CL1735,Consultorio,Corona sobre implante,97,27,10.0,989000,0.2,4.3,92
+CL1736,Consultorio,Protesis removible,163,32,3.6,395000,0.5,4.6,32
+CL1737,Consultorio,Protesis removible,61,28,5.8,427000,7.6,12.2,45
+CL1738,Consultorio,Corona,101,85,3.0,312000,0.2,0.1,40
+CL1739,Clinica grande,Carilla,178,52,35.3,297000,5.2,4.0,26
+CL1740,Consultorio,Corona,109,10,4.4,185000,1.2,3.6,25
+CL1741,Odontologo independiente,Protesis removible,114,27,1.4,455000,0.2,3.6,27
+CL1742,Odontologo independiente,Corona,2,22,4.9,232000,0.0,2.1,43
+CL1743,Odontologo independiente,Protesis removible,159,34,1.3,534000,0.6,3.1,89
+CL1744,Odontologo independiente,Corona,65,44,1.8,206000,0.8,4.3,25
+CL1745,Clinica grande,Protesis removible,90,84,21.8,301000,0.1,6.4,39
+CL1746,Odontologo independiente,Protesis removible,90,7,2.0,388000,0.3,4.3,24
+CL1747,Odontologo independiente,Protesis removible,19,12,3.6,344000,0.1,3.4,26
+CL1748,Odontologo independiente,Protesis removible,9,27,2.9,358000,0.0,15.4,74
+CL1749,Odontologo independiente,Corona,167,45,1.4,239000,1.1,3.3,52
+CL1750,Clinica grande,Carilla,165,83,31.1,202000,0.1,12.3,49
+CL1751,Clinica grande,Protesis removible,71,93,19.2,312000,0.0,0.8,32
+CL1752,Odontologo independiente,Protesis removible,21,46,1.7,525000,0.1,1.8,29
+CL1753,Consultorio,Protesis removible,153,35,7.7,485000,0.4,4.2,27
+CL1754,Odontologo independiente,Protesis removible,68,6,2.6,468000,0.3,4.8,109
+CL1755,Consultorio,Corona,5,20,6.3,238000,0.0,3.7,36
+CL1756,Consultorio,Carilla,44,55,4.0,268000,0.1,2.9,43
+CL1757,Odontologo independiente,Corona,142,62,2.3,341000,0.7,3.2,36
+CL1758,Consultorio,Corona,7,24,3.4,265000,0.4,10.5,31
+CL1759,Consultorio,Corona,145,53,8.3,322000,0.0,4.1,40
+CL1760,Consultorio,Carilla,55,31,5.2,242000,0.0,2.4,33
+CL1761,Consultorio,Corona sobre implante,130,51,5.7,906000,4.3,1.8,30
+CL1762,Odontologo independiente,Corona,91,14,2.9,232000,0.2,12.1,30
+CL1763,Odontologo independiente,Corona sobre implante,20,26,2.0,878000,0.1,4.4,50
+CL1764,Clinica grande,Carilla,123,61,26.7,333000,13.4,0.0,35
+CL1765,Consultorio,Corona,11,44,4.3,181000,0.0,2.0,35
+CL1766,Odontologo independiente,Carilla,71,36,2.4,426000,9.4,5.0,67
+CL1767,Clinica grande,Protesis removible,135,73,32.6,332000,0.0,1.8,108
+CL1768,Clinica grande,Corona,6,98,9.5,276000,0.1,1.6,38
+CL1769,Consultorio,Protesis removible,157,44,4.8,380000,0.3,4.2,70
+CL1770,Odontologo independiente,Carilla,115,6,2.3,314000,0.2,3.7,51
+CL1771,Consultorio,Corona sobre implante,30,41,5.4,732000,0.2,10.1,42
+CL1772,Consultorio,Corona sobre implante,107,61,7.2,700000,0.1,2.1,17
+CL1773,Consultorio,Corona,107,23,9.8,350000,0.1,4.4,21
+CL1774,Clinica grande,Corona sobre implante,78,67,22.4,843000,8.2,1.0,26
+CL1775,Consultorio,Protesis removible,83,30,7.2,505000,0.1,5.6,33
+CL1776,Consultorio,Protesis removible,121,38,7.1,368000,10.3,4.7,116
+CL1777,Consultorio,Carilla,113,27,9.2,298000,0.0,13.2,41
+CL1778,Odontologo independiente,Protesis removible,173,9,3.0,458000,0.1,13.1,35
+CL1779,Consultorio,Corona,149,12,11.5,337000,13.1,4.7,36
+CL1780,Consultorio,Carilla,15,50,9.6,290000,0.0,2.4,40
+CL1781,Consultorio,Corona,131,49,4.5,180000,0.2,14.9,41
+CL1782,Consultorio,Protesis removible,150,70,6.6,293000,0.1,2.0,35
+CL1783,Consultorio,Corona,28,54,9.1,212000,0.1,3.2,44
+CL1784,Consultorio,Corona,29,70,6.3,290000,0.1,2.2,39
+CL1785,Clinica grande,Corona sobre implante,163,69,6.3,481000,0.1,1.4,32
+CL1786,Odontologo independiente,Protesis removible,79,37,4.8,381000,0.6,4.5,64
+CL1787,Consultorio,Corona,93,59,7.2,335000,0.2,2.5,40
+CL1788,Odontologo independiente,Protesis removible,115,14,2.5,444000,0.5,8.9,27
+CL1789,Consultorio,Corona,132,36,6.9,364000,0.3,4.3,36
+CL1790,Consultorio,Corona,15,46,4.1,282000,0.2,4.5,32
+CL1791,Consultorio,Corona,81,74,6.0,278000,0.3,10.1,43
+CL1792,Consultorio,Carilla,4,74,5.1,350000,0.1,10.0,36
+CL1793,Consultorio,Corona,10,60,4.1,295000,8.7,0.2,33
+CL1794,Odontologo independiente,Corona,28,7,2.3,291000,0.1,5.1,26
+CL1795,Odontologo independiente,Corona,128,31,2.6,335000,0.6,5.4,30
+CL1796,Odontologo independiente,Corona sobre implante,105,36,3.6,756000,0.8,2.6,46
+CL1797,Odontologo independiente,Corona,108,25,2.5,270000,0.1,18.0,28
+CL1798,Consultorio,Corona,95,34,5.6,364000,0.0,10.4,104
+CL1799,Consultorio,Carilla,58,23,7.7,336000,0.0,4.4,29
+CL1800,Odontologo independiente,Corona,165,24,3.5,353000,0.7,5.4,33
+CL1801,Odontologo independiente,Carilla,157,9,3.4,347000,0.4,14.3,48
+CL1802,Clinica grande,Corona sobre implante,85,62,19.8,933000,0.0,8.1,23
+CL1803,Odontologo independiente,Corona,6,33,2.3,290000,0.2,3.6,114
+CL1804,Odontologo independiente,Corona,103,24,1.9,213000,0.4,6.0,24
+CL1805,Consultorio,Carilla,59,14,15.7,368000,8.3,4.3,34
+CL1806,Consultorio,Protesis removible,50,54,9.4,488000,0.0,2.0,37
+CL1807,Consultorio,Corona,148,47,10.4,196000,0.0,3.1,24
+CL1808,Consultorio,Corona,106,38,3.9,253000,0.2,4.7,25
+CL1809,Consultorio,Corona,134,76,7.1,340000,0.1,2.1,32
+CL1810,Consultorio,Protesis removible,96,74,11.3,524000,0.1,1.9,37
+CL1811,Odontologo independiente,Corona,169,18,1.3,297000,0.4,4.5,72
+CL1812,Odontologo independiente,Corona,141,26,2.1,255000,0.3,4.6,29
+CL1813,Odontologo independiente,Corona,163,63,0.9,246000,0.3,1.7,25
+CL1814,Odontologo independiente,Corona,127,20,8.5,228000,0.0,18.0,20
+CL1815,Consultorio,Corona,120,56,6.7,229000,0.3,14.7,30
+CL1816,Odontologo independiente,Corona,23,12,1.8,267000,0.3,4.0,69
+CL1817,Consultorio,Protesis removible,20,14,9.0,420000,0.0,5.0,32
+CL1818,Odontologo independiente,Corona sobre implante,169,22,1.9,693000,0.0,5.3,77
+CL1819,Consultorio,Corona,44,27,8.1,276000,0.0,4.0,37
+CL1820,Consultorio,Corona sobre implante,151,24,4.9,668000,0.1,6.7,34
+CL1821,Odontologo independiente,Carilla,151,59,3.7,260000,0.0,1.9,25
+CL1822,Consultorio,Protesis removible,106,66,4.5,410000,0.1,4.2,80
+CL1823,Consultorio,Corona,137,80,6.5,272000,0.3,2.4,27
+CL1824,Consultorio,Carilla,121,68,3.8,247000,0.3,1.5,109
+CL1825,Clinica grande,Corona sobre implante,93,76,24.0,693000,0.0,0.0,26
+CL1826,Consultorio,Corona,17,40,5.8,256000,0.2,10.0,32
+CL1827,Consultorio,Protesis removible,46,29,3.5,466000,0.0,2.5,37
+CL1828,Consultorio,Corona,46,56,13.6,222000,0.0,1.5,33
+CL1829,Consultorio,Corona sobre implante,16,20,5.6,887000,0.0,16.1,28
+CL1830,Clinica grande,Carilla,173,79,22.2,311000,0.0,12.0,35
+CL1831,Consultorio,Protesis removible,48,71,9.2,515000,0.1,3.0,24
+CL1832,Odontologo independiente,Protesis removible,48,5,1.5,498000,1.5,3.2,40
+CL1833,Consultorio,Corona,67,31,3.7,297000,0.0,4.1,38
+CL1834,Consultorio,Corona,97,44,4.5,288000,0.3,5.5,41
+CL1835,Clinica grande,Corona sobre implante,74,85,35.9,637000,17.0,9.1,28
+CL1836,Consultorio,Corona,157,31,3.9,385000,0.0,2.0,30
+CL1837,Consultorio,Carilla,87,21,19.5,377000,0.1,4.3,68
+CL1838,Consultorio,Protesis removible,38,40,6.8,324000,0.0,4.0,36
+CL1839,Consultorio,Corona sobre implante,72,74,7.2,886000,0.0,3.4,81
+CL1840,Consultorio,Corona,176,14,7.6,251000,13.3,3.8,67
+CL1841,Consultorio,Protesis removible,133,69,4.6,552000,0.1,3.0,33
+CL1842,Consultorio,Corona sobre implante,6,54,6.0,559000,0.2,2.9,30
+CL1843,Consultorio,Carilla,53,8,4.7,319000,0.1,5.8,111
+CL1844,Clinica grande,Protesis removible,141,74,21.5,363000,0.0,1.7,16
+CL1845,Odontologo independiente,Carilla,158,26,2.0,345000,0.3,2.1,34
+CL1846,Odontologo independiente,Carilla,33,66,4.2,256000,8.8,2.0,37
+CL1847,Consultorio,Protesis removible,116,30,6.7,526000,0.1,14.8,23
+CL1848,Clinica grande,Corona,42,89,22.7,255000,0.2,0.7,41
+CL1849,Odontologo independiente,Corona,32,8,2.1,303000,0.1,3.6,97
+CL1850,Consultorio,Carilla,6,38,4.4,418000,1.0,2.8,28
+CL1851,Odontologo independiente,Corona sobre implante,20,49,1.5,926000,0.7,2.9,18
+CL1852,Clinica grande,Corona sobre implante,69,93,20.3,930000,0.0,0.7,30
+CL1853,Consultorio,Corona,138,22,10.6,283000,0.0,3.6,26
+CL1854,Consultorio,Corona,57,53,7.6,267000,0.1,2.0,38
+CL1855,Clinica grande,Corona,90,78,17.0,324000,7.9,13.4,37
+CL1856,Consultorio,Corona,58,58,4.3,372000,0.1,10.3,35
+CL1857,Consultorio,Corona,174,59,5.3,333000,0.2,3.2,31
+CL1858,Odontologo independiente,Protesis removible,106,16,3.5,396000,0.0,6.7,33
+CL1859,Consultorio,Corona sobre implante,5,18,9.6,719000,0.0,2.7,38
+CL1860,Consultorio,Protesis removible,63,74,5.1,574000,0.1,2.0,26
+CL1861,Consultorio,Corona sobre implante,63,76,4.6,523000,0.7,1.0,37
+CL1862,Consultorio,Corona,67,29,7.6,212000,16.7,4.4,31
+CL1863,Consultorio,Corona,139,35,4.3,344000,0.4,3.8,24
+CL1864,Clinica grande,Corona sobre implante,37,76,19.9,758000,0.0,3.3,31
+CL1865,Odontologo independiente,Protesis removible,124,28,4.6,406000,0.0,5.0,100
+CL1866,Odontologo independiente,Corona sobre implante,24,51,1.7,870000,6.3,11.6,46
+CL1867,Odontologo independiente,Protesis removible,82,5,2.3,309000,0.1,12.5,31
+CL1868,Consultorio,Corona,137,37,6.0,358000,0.4,8.6,41
+CL1869,Consultorio,Corona,139,23,9.1,242000,0.1,2.8,46
+CL1870,Odontologo independiente,Carilla,38,22,2.5,298000,0.2,5.7,36
+CL1871,Odontologo independiente,Corona,101,30,1.2,250000,4.1,2.9,37
+CL1872,Odontologo independiente,Carilla,63,13,1.4,265000,0.0,6.2,34
+CL1873,Clinica grande,Corona sobre implante,177,88,28.5,1041000,0.0,1.7,26
+CL1874,Odontologo independiente,Corona,5,57,2.2,353000,0.2,7.9,39
+CL1875,Consultorio,Protesis removible,74,8,4.9,336000,0.2,4.6,43
+CL1876,Clinica grande,Corona,112,54,12.2,296000,0.0,2.6,22
+CL1877,Consultorio,Corona sobre implante,59,63,6.8,1000000,0.0,1.9,19
+CL1878,Odontologo independiente,Corona sobre implante,32,39,1.8,715000,1.1,3.7,41
+CL1879,Consultorio,Corona sobre implante,86,67,8.2,547000,0.5,2.4,27
+CL1880,Odontologo independiente,Protesis removible,169,27,2.6,420000,0.4,5.2,35
+CL1881,Consultorio,Corona sobre implante,137,42,4.0,638000,0.1,3.5,36
+CL1882,Clinica grande,Corona,104,76,12.6,217000,0.1,1.0,21
+CL1883,Consultorio,Protesis removible,152,30,4.7,448000,0.2,3.3,24
+CL1884,Consultorio,Protesis removible,39,14,7.1,419000,0.0,3.5,34
+CL1885,Clinica grande,Corona sobre implante,37,45,30.2,563000,0.1,18.3,35
+CL1886,Odontologo independiente,Corona,100,20,0.9,257000,0.7,4.8,37
+CL1887,Consultorio,Protesis removible,108,76,11.1,335000,0.0,1.0,65
+CL1888,Consultorio,Corona,36,60,6.8,271000,0.1,14.6,34
+CL1889,Clinica grande,Protesis removible,106,78,19.1,353000,0.1,1.3,33
+CL1890,Odontologo independiente,Protesis removible,151,42,0.9,499000,0.3,10.8,36
+CL1891,Odontologo independiente,Corona,38,50,1.4,309000,0.5,15.0,36
+CL1892,Clinica grande,Corona,28,92,37.0,319000,0.0,0.7,33
+CL1893,Odontologo independiente,Carilla,69,8,2.3,290000,0.5,4.0,42
+CL1894,Consultorio,Corona,129,24,6.3,327000,0.0,2.9,104
+CL1895,Odontologo independiente,Protesis removible,53,39,1.9,548000,0.0,1.9,51
+CL1896,Odontologo independiente,Corona,12,7,1.8,345000,0.5,5.0,33
+CL1897,Consultorio,Corona sobre implante,155,36,5.2,958000,0.3,1.0,25
+CL1898,Consultorio,Carilla,54,32,8.9,298000,0.1,4.2,39
+CL1899,Odontologo independiente,Protesis removible,50,11,3.2,431000,0.1,3.4,33
+CL1900,Odontologo independiente,Corona,99,55,2.9,353000,0.1,5.2,33
+CL1901,Odontologo independiente,Corona,74,33,2.0,256000,0.2,3.7,49
+CL1902,Odontologo independiente,Corona,103,23,2.6,253000,0.8,3.7,36
+CL1903,Odontologo independiente,Corona,35,6,4.4,228000,0.0,4.6,110
+CL1904,Clinica grande,Corona sobre implante,162,47,32.6,952000,0.0,1.7,31
+CL1905,Consultorio,Protesis removible,124,59,11.1,611000,0.1,3.2,34
+CL1906,Odontologo independiente,Carilla,21,9,1.2,287000,1.2,4.0,34
+CL1907,Consultorio,Protesis removible,158,61,2.5,461000,0.0,2.6,25
+CL1908,Consultorio,Carilla,132,45,8.7,394000,0.5,11.1,24
+CL1909,Consultorio,Corona,113,35,5.7,316000,0.2,4.4,31
+CL1910,Clinica grande,Corona sobre implante,152,87,4.4,809000,0.0,9.1,33
+CL1911,Consultorio,Carilla,129,47,8.5,376000,0.1,4.1,88
+CL1912,Clinica grande,Corona sobre implante,24,98,36.6,789000,11.6,10.7,28
+CL1913,Odontologo independiente,Protesis removible,115,70,2.6,383000,0.1,2.9,22
+CL1914,Odontologo independiente,Corona,26,1,2.4,212000,0.6,4.1,34
+CL1915,Consultorio,Corona,87,50,3.1,270000,0.4,1.2,39
+CL1916,Odontologo independiente,Corona,122,15,3.6,225000,0.2,3.5,122
+CL1917,Consultorio,Corona,94,32,18.9,296000,0.0,3.9,32
+CL1918,Clinica grande,Corona sobre implante,111,83,70.0,828000,0.0,3.3,33
+CL1919,Consultorio,Corona sobre implante,119,34,6.2,966000,0.0,15.3,36
+CL1920,Consultorio,Carilla,160,80,6.5,226000,0.3,1.8,72
+CL1921,Odontologo independiente,Protesis removible,149,40,3.2,458000,0.0,2.2,32
+CL1922,Consultorio,Corona,135,35,3.6,367000,0.0,3.6,130
+CL1923,Clinica grande,Corona,15,69,17.5,355000,10.9,3.8,20
+CL1924,Consultorio,Corona,34,48,8.4,256000,0.4,2.0,113
+CL1925,Odontologo independiente,Corona,107,7,2.5,262000,0.9,3.3,31
+CL1926,Consultorio,Corona,46,62,4.8,272000,17.8,3.9,43
+CL1927,Consultorio,Corona,49,42,5.9,297000,0.3,2.9,40
+CL1928,Clinica grande,Corona sobre implante,120,79,13.0,758000,0.1,1.1,44
+CL1929,Consultorio,Corona,52,60,5.1,314000,0.1,2.6,29
+CL1930,Consultorio,Corona,73,43,10.1,270000,0.0,2.8,22
+CL1931,Clinica grande,Corona sobre implante,101,89,16.9,610000,4.6,9.4,26
+CL1932,Consultorio,Protesis removible,29,31,4.4,485000,0.3,3.7,104
+CL1933,Consultorio,Corona,76,60,5.0,216000,0.0,2.9,30
+CL1934,Consultorio,Corona,57,54,3.6,258000,0.0,2.2,40
+CL1935,Consultorio,Protesis removible,139,69,8.2,394000,0.1,2.2,37
+CL1936,Consultorio,Protesis removible,77,63,3.0,554000,0.8,4.8,27
+CL1937,Consultorio,Corona,88,75,4.0,267000,0.6,0.7,30
+CL1938,Consultorio,Protesis removible,2,32,6.8,381000,0.1,4.3,17
+CL1939,Odontologo independiente,Corona,60,20,0.9,322000,5.1,3.4,35
+CL1940,Consultorio,Carilla,111,60,12.1,306000,0.0,2.8,34
+CL1941,Consultorio,Corona sobre implante,39,38,11.1,662000,0.3,2.9,80
+CL1942,Consultorio,Protesis removible,71,66,6.2,402000,0.1,2.4,21
+CL1943,Consultorio,Carilla,58,71,10.7,389000,0.2,1.8,23
+CL1944,Odontologo independiente,Carilla,12,0,2.6,240000,0.9,3.9,44
+CL1945,Consultorio,Corona,43,61,8.2,267000,0.1,3.8,72
+CL1946,Odontologo independiente,Corona,131,40,3.8,254000,0.0,5.2,36
+CL1947,Clinica grande,Corona,43,85,61.4,237000,0.0,0.5,45
+CL1948,Clinica grande,Corona,168,74,25.3,291000,0.0,1.7,37
+CL1949,Odontologo independiente,Protesis removible,155,65,6.7,504000,0.0,13.7,27
+CL1950,Odontologo independiente,Protesis removible,23,44,3.8,482000,1.1,2.0,28
+CL1951,Clinica grande,Corona,23,65,47.4,273000,0.0,2.0,25
+CL1952,Odontologo independiente,Carilla,84,19,2.3,276000,0.9,5.2,69
+CL1953,Odontologo independiente,Corona sobre implante,107,9,2.7,946000,5.5,5.1,106
+CL1954,Consultorio,Corona,142,38,17.3,313000,5.8,12.7,57
+CL1955,Consultorio,Corona sobre implante,165,75,4.7,943000,0.0,2.2,29
+CL1956,Consultorio,Carilla,38,71,3.6,314000,10.7,15.7,28
+CL1957,Consultorio,Corona,25,60,17.7,312000,0.2,8.1,22
+CL1958,Odontologo independiente,Carilla,28,15,0.9,300000,0.8,10.8,30
+CL1959,Consultorio,Corona sobre implante,63,64,9.6,1179000,0.0,4.2,27
+CL1960,Odontologo independiente,Corona,164,35,1.7,245000,1.3,11.3,106
+CL1961,Odontologo independiente,Corona,110,27,2.1,302000,17.4,4.2,36
+CL1962,Odontologo independiente,Corona,127,5,1.0,213000,0.4,5.4,24
+CL1963,Clinica grande,Corona,52,65,20.6,324000,0.0,2.9,26
+CL1964,Consultorio,Corona,54,9,3.3,310000,0.2,13.5,33
+CL1965,Clinica grande,Carilla,113,64,21.7,261000,0.0,1.9,41
+CL1966,Consultorio,Corona sobre implante,93,44,7.4,833000,0.2,3.2,16
+CL1967,Consultorio,Corona,40,32,3.1,253000,0.5,3.8,39
+CL1968,Consultorio,Carilla,125,44,9.5,284000,0.0,3.7,22
+CL1969,Clinica grande,Corona sobre implante,52,86,33.8,920000,0.0,13.7,29
+CL1970,Consultorio,Corona,40,34,2.3,264000,0.1,4.6,19
+CL1971,Odontologo independiente,Corona,143,31,1.8,344000,0.2,4.6,41
+CL1972,Consultorio,Corona sobre implante,101,73,4.2,816000,0.3,12.6,44
+CL1973,Clinica grande,Corona sobre implante,147,93,70.0,875000,14.2,11.1,32
+CL1974,Odontologo independiente,Corona,77,41,2.2,242000,0.3,3.0,48
+CL1975,Odontologo independiente,Corona,4,64,1.2,300000,0.7,1.5,35
+CL1976,Odontologo independiente,Protesis removible,100,21,2.4,529000,16.5,4.0,35
+CL1977,Odontologo independiente,Corona,128,55,1.2,289000,0.4,3.7,27
+CL1978,Odontologo independiente,Protesis removible,118,22,1.6,327000,0.1,5.7,29
+CL1979,Odontologo independiente,Corona,61,23,4.1,299000,0.3,3.9,28
+CL1980,Consultorio,Corona,21,47,6.0,253000,0.1,3.4,33
+CL1981,Odontologo independiente,Corona sobre implante,148,5,2.3,760000,11.2,6.3,41
+CL1982,Consultorio,Corona,10,66,10.1,264000,0.1,3.2,34
+CL1983,Consultorio,Protesis removible,119,65,15.1,380000,0.1,3.4,26
+CL1984,Odontologo independiente,Corona,124,1,2.6,279000,0.6,3.9,42
+CL1985,Odontologo independiente,Protesis removible,121,54,1.3,391000,0.5,1.9,38
+CL1986,Consultorio,Protesis removible,96,50,5.9,471000,0.0,0.6,50
+CL1987,Odontologo independiente,Corona,77,11,2.6,242000,17.1,13.9,28
+CL1988,Consultorio,Protesis removible,16,41,5.7,448000,0.1,3.5,40
+CL1989,Consultorio,Corona,31,46,8.3,264000,0.0,3.7,45
+CL1990,Clinica grande,Corona,120,92,15.9,306000,0.1,3.1,32
+CL1991,Odontologo independiente,Protesis removible,69,43,5.2,463000,0.0,2.7,31
+CL1992,Clinica grande,Carilla,2,64,28.2,376000,0.1,3.5,36
+CL1993,Consultorio,Corona,75,49,2.9,360000,0.2,3.1,32
+CL1994,Consultorio,Protesis removible,119,20,6.1,378000,0.2,4.6,40
+CL1995,Consultorio,Corona,127,37,8.5,198000,0.0,3.2,41
+CL1996,Odontologo independiente,Corona,26,10,2.7,368000,0.0,3.1,39
+CL1997,Consultorio,Corona,28,76,12.5,314000,0.2,1.4,31
+CL1998,Consultorio,Carilla,6,63,3.8,249000,0.1,5.3,35
+CL1999,Consultorio,Corona,6,40,3.0,277000,1.1,2.9,36
+CL2000,Odontologo independiente,Protesis removible,114,32,3.3,362000,0.1,5.4,74
